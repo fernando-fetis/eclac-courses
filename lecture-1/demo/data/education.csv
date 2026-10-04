@@ -1,0 +1,274 @@
+Country,Year,MeanYearsOfSchooling,SecondaryCompletionRate
+Argentina,2000,9.06,49.9
+Argentina,2002,9.13,48.6
+Argentina,2004,9.46,53.2
+Argentina,2006,9.57,52.1
+Argentina,2008,9.84,52.7
+Argentina,2010,10.05,53.7
+Argentina,2012,10.13,55.6
+Argentina,2014,10.47,57.1
+Argentina,2016,10.53,58.0
+Argentina,2018,10.74,60.0
+Argentina,2020,10.91,61.0
+Argentina,2022,11.14,64.2
+Argentina,2024,11.24,61.7
+Bolivia (Plurinational State of),2000,7.45,39.4
+Bolivia (Plurinational State of),2002,7.6,39.5
+Bolivia (Plurinational State of),2004,7.78,41.7
+Bolivia (Plurinational State of),2006,7.99,44.7
+Bolivia (Plurinational State of),2008,8.17,44.6
+Bolivia (Plurinational State of),2010,8.39,46.1
+Bolivia (Plurinational State of),2012,8.57,46.3
+Bolivia (Plurinational State of),2014,8.82,47.0
+Bolivia (Plurinational State of),2016,8.95,48.6
+Bolivia (Plurinational State of),2018,9.22,49.1
+Bolivia (Plurinational State of),2020,9.38,51.1
+Bolivia (Plurinational State of),2022,9.55,52.6
+Bolivia (Plurinational State of),2024,9.76,53.2
+Brazil,2000,6.62,31.9
+Brazil,2002,6.82,34.8
+Brazil,2004,7.01,36.1
+Brazil,2006,7.22,35.7
+Brazil,2008,7.49,39.4
+Brazil,2010,7.63,40.0
+Brazil,2012,7.86,40.5
+Brazil,2014,8.07,42.2
+Brazil,2016,8.41,45.8
+Brazil,2018,8.49,47.8
+Brazil,2020,8.82,47.5
+Brazil,2022,9.02,51.1
+Brazil,2024,9.14,50.3
+Chile,2000,9.55,51.6
+Chile,2002,9.72,53.4
+Chile,2004,9.88,53.7
+Chile,2006,10.17,56.4
+Chile,2008,10.2,55.8
+Chile,2010,10.53,58.4
+Chile,2012,10.43,58.3
+Chile,2014,10.65,NA
+Chile,2016,10.84,61.1
+Chile,2018,11.05,61.2
+Chile,2020,11.2,62.8
+Chile,2022,11.44,63.0
+Chile,2024,11.58,65.6
+Colombia,2000,7.29,39.1
+Colombia,2002,7.34,38.1
+Colombia,2004,7.54,39.1
+Colombia,2006,7.74,40.4
+Colombia,2008,7.91,44.4
+Colombia,2010,8.07,43.3
+Colombia,2012,8.33,44.7
+Colombia,2014,8.41,45.4
+Colombia,2016,8.6,45.8
+Colombia,2018,8.8,45.7
+Colombia,2020,,48.9
+Colombia,2022,9.16,50.3
+Colombia,2024,9.33,50.2
+Costa Rica,2000,7.86,43.3
+Costa Rica,2002,7.89,41.6
+Costa Rica,2004,8.2,44.2
+Costa Rica,2006,8.3,45.1
+Costa Rica,2008,8.4,45.1
+Costa Rica,2010,8.54,45.7
+Costa Rica,2012,8.72,48.2
+Costa Rica,2014,8.75,46.9
+Costa Rica,2016,8.98,51.1
+Costa Rica,2018,9.07,49.1
+Costa Rica,2020,9.24,48.9
+Costa Rica,2022,9.37,50.4
+Costa Rica,2024,9.54,52.5
+Cuba,2000,NA,52.4
+Cuba,2002,10.01,55.4
+Cuba,2004,10.07,55.7
+Cuba,2006,10.27,57.0
+Cuba,2008,10.54,57.1
+Cuba,2010,10.66,58.2
+Cuba,2012,10.81,61.3
+Cuba,2014,10.92,60.3
+Cuba,2016,11.15,61.1
+Cuba,2018,11.28,63.5
+Cuba,2020,11.39,64.1
+Cuba,2022,11.63,65.0
+Cuba,2024,11.81,67.8
+Dominican Republic,2000,6.84,34.1
+Dominican Republic,2002,7.02,36.9
+Dominican Republic,2004,7.24,38.5
+Dominican Republic,2006,7.44,39.6
+Dominican Republic,2008,7.65,38.4
+Dominican Republic,2010,7.77,42.8
+Dominican Republic,2012,7.99,42.7
+Dominican Republic,2014,8.11,
+Dominican Republic,2016,8.28,44.3
+Dominican Republic,2018,8.59,45.3
+Dominican Republic,2020,8.67,47.8
+Dominican Republic,2022,8.95,49.3
+Dominican Republic,2024,9.08,49.6
+Ecuador,2000,7.63,41.7
+Ecuador,2002,7.72,40.4
+Ecuador,2004,7.84,43.3
+Ecuador,2006,8.02,44.6
+Ecuador,2008,8.21,45.1
+Ecuador,2010,8.51,43.8
+Ecuador,2012,8.63,NA
+Ecuador,2014,8.8,47.2
+Ecuador,2016,9.02,47.6
+Ecuador,2018,9.07,49.5
+Ecuador,2020,9.3,50.3
+Ecuador,2022,9.52,52.8
+Ecuador,2024,9.68,53.7
+El Salvador,2000,5.84,..
+El Salvador,2002,6.0,30.9
+El Salvador,2004,NA,31.9
+El Salvador,2006,6.34,32.4
+El Salvador,2008,6.4,32.6
+El Salvador,2010,6.56,34.0
+El Salvador,2012,6.76,35.2
+El Salvador,2014,6.96,NA
+El Salvador,2016,7.04,37.0
+El Salvador,2018,7.25,39.0
+El Salvador,2020,7.39,38.2
+El Salvador,2022,7.63,41.2
+El Salvador,2024,7.75,41.7
+Guatemala,2000,4.44,21.7
+Guatemala,2002,4.62,21.5
+Guatemala,2004,4.71,23.3
+Guatemala,2006,4.97,23.1
+Guatemala,2008,5.1,23.5
+Guatemala,2010,5.29,25.6
+Guatemala,2012,5.35,25.9
+Guatemala,2014,5.48,26.6
+Guatemala,2016,5.52,28.2
+Guatemala,2018,5.48,28.9
+Guatemala,2020,5.51,27.5
+Guatemala,2022,5.63,26.7
+Guatemala,2024,5.55,27.9
+Honduras,2000,5.16,24.7
+Honduras,2002,5.45,26.8
+Honduras,2004,5.58,26.9
+Honduras,2006,5.64,28.5
+Honduras,2008,5.88,29.8
+Honduras,2010,6.12,31.7
+Honduras,2012,6.29,33.5
+Honduras,2014,6.44,31.9
+Honduras,2016,NA,34.7
+Honduras,2018,6.79,35.4
+Honduras,2020,6.96,35.3
+Honduras,2022,7.21,38.1
+Honduras,2024,7.31,38.5
+Jamaica,2000,8.41,45.3
+Jamaica,2002,8.51,46.4
+Jamaica,2004,8.57,47.5
+Jamaica,2006,8.68,46.4
+Jamaica,2008,8.82,48.2
+Jamaica,2010,8.97,48.2
+Jamaica,2012,,47.2
+Jamaica,2014,9.26,50.4
+Jamaica,2016,9.31,51.3
+Jamaica,2018,9.3,49.9
+Jamaica,2020,9.54,54.0
+Jamaica,2022,9.66,52.0
+Jamaica,2024,9.65,51.1
+Mexico,2000,7.41,39.4
+Mexico,2002,7.65,40.6
+Mexico,2004,7.79,42.4
+Mexico,2006,7.91,42.5
+Mexico,2008,8.18,43.5
+Mexico,2010,8.45,44.9
+Mexico,2012,8.53,45.7
+Mexico,2014,8.73,47.6
+Mexico,2016,8.85,48.3
+Mexico,2018,9.17,..
+Mexico,2020,9.34,50.2
+Mexico,2022,9.53,52.9
+Mexico,2024,9.7,51.9
+Nicaragua,2000,4.96,24.0
+Nicaragua,2002,5.16,25.2
+Nicaragua,2004,5.31,25.3
+Nicaragua,2006,5.53,26.5
+Nicaragua,2008,5.71,28.1
+Nicaragua,2010,5.89,30.0
+Nicaragua,2012,6.07,31.0
+Nicaragua,2014,6.21,32.4
+Nicaragua,2016,6.35,
+Nicaragua,2018,6.67,32.3
+Nicaragua,2020,6.83,NA
+Nicaragua,2022,6.97,35.4
+Nicaragua,2024,7.16,37.5
+Panama,2000,8.6,46.7
+Panama,2002,8.76,47.4
+Panama,2004,8.97,47.0
+Panama,2006,9.05,NA
+Panama,2008,9.21,50.5
+Panama,2010,9.31,50.2
+Panama,2012,NA,51.9
+Panama,2014,9.6,52.7
+Panama,2016,9.72,
+Panama,2018,10.05,54.9
+Panama,2020,9.96,53.9
+Panama,2022,10.19,56.3
+Panama,2024,10.23,56.0
+Paraguay,2000,6.84,34.1
+Paraguay,2002,6.95,38.0
+Paraguay,2004,7.17,38.5
+Paraguay,2006,,38.7
+Paraguay,2008,7.46,41.1
+Paraguay,2010,7.79,41.9
+Paraguay,2012,7.92,42.1
+Paraguay,2014,8.07,43.7
+Paraguay,2016,8.24,44.4
+Paraguay,2018,,44.6
+Paraguay,2020,8.56,45.6
+Paraguay,2022,8.66,48.2
+Paraguay,2024,8.91,48.2
+Peru,2000,8.23,44.8
+Peru,2002,8.21,44.3
+Peru,2004,8.55,..
+Peru,2006,8.67,46.6
+Peru,2008,8.75,46.7
+Peru,2010,9.08,49.5
+Peru,2012,9.19,51.0
+Peru,2014,9.31,50.9
+Peru,2016,9.49,50.6
+Peru,2018,9.55,51.9
+Peru,2020,9.87,54.4
+Peru,2022,10.01,56.1
+Peru,2024,10.02,54.7
+Trinidad and Tobago,2000,9.42,50.8
+Trinidad and Tobago,2002,9.6,52.5
+Trinidad and Tobago,2004,9.68,53.4
+Trinidad and Tobago,2006,9.78,52.8
+Trinidad and Tobago,2008,9.95,56.2
+Trinidad and Tobago,2010,9.94,56.5
+Trinidad and Tobago,2012,10.16,55.6
+Trinidad and Tobago,2014,10.31,55.9
+Trinidad and Tobago,2016,10.42,57.7
+Trinidad and Tobago,2018,10.52,59.0
+Trinidad and Tobago,2020,10.7,59.5
+Trinidad and Tobago,2022,10.84,61.4
+Trinidad and Tobago,2024,10.86,59.4
+Uruguay,2000,8.8,47.3
+Uruguay,2002,8.92,47.4
+Uruguay,2004,9.13,51.0
+Uruguay,2006,9.28,49.5
+Uruguay,2008,9.39,51.3
+Uruguay,2010,9.52,52.4
+Uruguay,2012,9.63,52.7
+Uruguay,2014,9.86,55.8
+Uruguay,2016,9.9,52.9
+Uruguay,2018,10.11,57.3
+Uruguay,2020,10.19,56.2
+Uruguay,2022,10.42,58.6
+Uruguay,2024,10.56,58.6
+Venezuela (Bolivarian Republic of),2000,8.04,41.8
+Venezuela (Bolivarian Republic of),2002,8.07,44.0
+Venezuela (Bolivarian Republic of),2004,8.09,43.8
+Venezuela (Bolivarian Republic of),2006,8.3,44.8
+Venezuela (Bolivarian Republic of),2008,8.44,45.3
+Venezuela (Bolivarian Republic of),2010,8.57,46.0
+Venezuela (Bolivarian Republic of),2012,8.66,
+Venezuela (Bolivarian Republic of),2014,8.8,47.9
+Venezuela (Bolivarian Republic of),2016,8.89,50.2
+Venezuela (Bolivarian Republic of),2018,8.95,48.4
+Venezuela (Bolivarian Republic of),2020,9.2,50.0
+Venezuela (Bolivarian Republic of),2022,9.22,..
+Venezuela (Bolivarian Republic of),2024,9.31,51.5

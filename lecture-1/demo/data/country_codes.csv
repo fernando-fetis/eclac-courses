@@ -1,0 +1,22 @@
+country_name,official_name,iso2,iso3,m49_code,subregion,income_group
+Argentina,Argentina,AR,ARG,32,South America,High
+Bolivia,Bolivia (Plurinational State of),BO,BOL,68,South America,Lower middle
+Brazil,Brazil,BR,BRA,76,South America,Upper middle
+Chile,Chile,CL,CHL,152,South America,High
+Colombia,Colombia,CO,COL,170,South America,Upper middle
+Costa Rica,Costa Rica,CR,CRI,188,Central America,Upper middle
+Cuba,Cuba,CU,CUB,192,Caribbean,Upper middle
+Dominican Republic,Dominican Republic,DO,DOM,214,Caribbean,Upper middle
+Ecuador,Ecuador,EC,ECU,218,South America,Upper middle
+El Salvador,El Salvador,SV,SLV,222,Central America,Lower middle
+Guatemala,Guatemala,GT,GTM,320,Central America,Upper middle
+Honduras,Honduras,HN,HND,340,Central America,Lower middle
+Jamaica,Jamaica,JM,JAM,388,Caribbean,Upper middle
+Mexico,Mexico,MX,MEX,484,Mexico,High
+Nicaragua,Nicaragua,NI,NIC,558,Central America,Lower middle
+Panama,Panama,PA,PAN,591,Central America,Upper middle
+Paraguay,Paraguay,PY,PRY,600,South America,Upper middle
+Peru,Peru,PE,PER,604,South America,Upper middle
+Trinidad and Tobago,Trinidad and Tobago,TT,TTO,780,Caribbean,High
+Uruguay,Uruguay,UY,URY,858,South America,High
+Venezuela,Venezuela (Bolivarian Republic of),VE,VEN,862,South America,Upper middle

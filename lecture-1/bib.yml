@@ -1,0 +1,400 @@
+# Bibliography of lecture 1, in Hayagriva format and printed in APA style by `references()`.
+# Conference proceedings are declared as `periodical` because that is the shape the APA style composes correctly.
+
+shannon1948:
+  type: article
+  title: "A Mathematical Theory of Communication"
+  author: ["Shannon, Claude E."]
+  date: 1948
+  page-range: 379-423
+  parent:
+    type: periodical
+    title: "Bell System Technical Journal"
+    volume: 27
+    issue: 3
+
+cybenko1989:
+  type: article
+  title: "Approximation by Superpositions of a Sigmoidal Function"
+  author: ["Cybenko, George"]
+  date: 1989
+  page-range: 303-314
+  parent:
+    type: periodical
+    title: "Mathematics of Control, Signals and Systems"
+    volume: 2
+
+krizhevsky2012:
+  type: article
+  title: "ImageNet Classification with Deep Convolutional Neural Networks"
+  author: ["Krizhevsky, Alex", "Sutskever, Ilya", "Hinton, Geoffrey E."]
+  date: 2012
+  parent:
+    type: periodical
+    title: "Advances in Neural Information Processing Systems"
+
+sutton2019:
+  type: web
+  title: "The Bitter Lesson"
+  author: ["Sutton, Richard S."]
+  date: 2019-03-13
+  url: http://www.incompleteideas.net/IncIdeas/BitterLesson.html
+
+sennrich2016:
+  type: article
+  title: "Neural Machine Translation of Rare Words with Subword Units"
+  author: ["Sennrich, Rico", "Haddow, Barry", "Birch, Alexandra"]
+  date: 2016
+  parent:
+    type: periodical
+    title: "Annual Meeting of the Association for Computational Linguistics"
+
+vaswani2017:
+  type: article
+  title: "Attention Is All You Need"
+  author: ["Vaswani, Ashish", "Shazeer, Noam", "Parmar, Niki", "Uszkoreit, Jakob", "Jones, Llion", "Gomez, Aidan N.", "Kaiser, Łukasz", "Polosukhin, Illia"]
+  date: 2017
+  parent:
+    type: periodical
+    title: "Advances in Neural Information Processing Systems"
+
+radford2019:
+  type: report
+  title: "Language Models Are Unsupervised Multitask Learners"
+  author: ["Radford, Alec", "Wu, Jeffrey", "Child, Rewon", "Luan, David", "Amodei, Dario", "Sutskever, Ilya"]
+  date: 2019
+  organization: "OpenAI"
+
+brown2020:
+  type: article
+  title: "Language Models Are Few-Shot Learners"
+  author: ["Brown, Tom B.", "Mann, Benjamin", "Ryder, Nick"]
+  date: 2020
+  parent:
+    type: periodical
+    title: "Advances in Neural Information Processing Systems"
+
+christiano2017:
+  type: article
+  title: "Deep Reinforcement Learning from Human Preferences"
+  author: ["Christiano, Paul F.", "Leike, Jan", "Brown, Tom B.", "Martic, Miljan", "Legg, Shane", "Amodei, Dario"]
+  date: 2017
+  parent:
+    type: periodical
+    title: "Advances in Neural Information Processing Systems"
+
+ouyang2022:
+  type: article
+  title: "Training Language Models to Follow Instructions with Human Feedback"
+  author: ["Ouyang, Long", "Wu, Jeff", "Jiang, Xu"]
+  date: 2022
+  parent:
+    type: periodical
+    title: "Advances in Neural Information Processing Systems"
+
+kaplan2020:
+  type: article
+  title: "Scaling Laws for Neural Language Models"
+  author: ["Kaplan, Jared", "McCandlish, Sam", "Henighan, Tom"]
+  date: 2020
+  note: "arXiv:2001.08361"
+
+wei2022emergent:
+  type: article
+  title: "Emergent Abilities of Large Language Models"
+  author: ["Wei, Jason", "Tay, Yi", "Bommasani, Rishi"]
+  date: 2022
+  parent:
+    type: periodical
+    title: "Transactions on Machine Learning Research"
+
+schaeffer2023:
+  type: article
+  title: "Are Emergent Abilities of Large Language Models a Mirage?"
+  author: ["Schaeffer, Rylan", "Miranda, Brando", "Koyejo, Sanmi"]
+  date: 2023
+  parent:
+    type: periodical
+    title: "Advances in Neural Information Processing Systems"
+
+wei2022cot:
+  type: article
+  title: "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models"
+  author: ["Wei, Jason", "Wang, Xuezhi", "Schuurmans, Dale"]
+  date: 2022
+  parent:
+    type: periodical
+    title: "Advances in Neural Information Processing Systems"
+
+deepseek2025:
+  type: article
+  title: "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+  author: ["DeepSeek-AI"]
+  date: 2025
+  note: "arXiv:2501.12948"
+
+kalai2025:
+  type: article
+  title: "Why Language Models Hallucinate"
+  author: ["Kalai, Adam Tauman", "Nachum, Ofir", "Vempala, Santosh S.", "Zhang, Edwin"]
+  date: 2025
+  note: "arXiv:2509.04664"
+
+nasr2023:
+  type: article
+  title: "Scalable Extraction of Training Data from (Production) Language Models"
+  author: ["Nasr, Milad", "Carlini, Nicholas", "Hayase, Jonathan"]
+  date: 2023
+  note: "arXiv:2311.17035"
+
+sharma2023:
+  type: article
+  title: "Towards Understanding Sycophancy in Language Models"
+  author: ["Sharma, Mrinank", "Tong, Meg", "Korbak, Tomasz"]
+  date: 2023
+  note: "arXiv:2310.13548"
+
+greshake2023:
+  type: article
+  title: "Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection"
+  author: ["Greshake, Kai", "Abdelnabi, Sahar", "Mishra, Shailesh", "Endres, Christoph", "Holz, Thorsten", "Fritz, Mario"]
+  date: 2023
+  parent:
+    type: periodical
+    title: "ACM Workshop on Artificial Intelligence and Security"
+
+yao2023:
+  type: article
+  title: "ReAct: Synergizing Reasoning and Acting in Language Models"
+  author: ["Yao, Shunyu", "Zhao, Jeffrey", "Yu, Dian", "Du, Nan", "Shafran, Izhak", "Narasimhan, Karthik", "Cao, Yuan"]
+  date: 2023
+  parent:
+    type: periodical
+    title: "International Conference on Learning Representations"
+
+schick2023:
+  type: article
+  title: "Toolformer: Language Models Can Teach Themselves to Use Tools"
+  author: ["Schick, Timo", "Dwivedi-Yu, Jane", "Dessì, Roberto"]
+  date: 2023
+  parent:
+    type: periodical
+    title: "Advances in Neural Information Processing Systems"
+
+goodfellow2014:
+  type: article
+  title: "Generative Adversarial Nets"
+  author: ["Goodfellow, Ian J.", "Pouget-Abadie, Jean", "Mirza, Mehdi"]
+  date: 2014
+  parent:
+    type: periodical
+    title: "Advances in Neural Information Processing Systems"
+
+ho2020:
+  type: article
+  title: "Denoising Diffusion Probabilistic Models"
+  author: ["Ho, Jonathan", "Jain, Ajay", "Abbeel, Pieter"]
+  date: 2020
+  parent:
+    type: periodical
+    title: "Advances in Neural Information Processing Systems"
+
+song2021:
+  type: article
+  title: "Score-Based Generative Modeling through Stochastic Differential Equations"
+  author: ["Song, Yang", "Sohl-Dickstein, Jascha", "Kingma, Diederik P.", "Kumar, Abhishek", "Ermon, Stefano", "Poole, Ben"]
+  date: 2021
+  parent:
+    type: periodical
+    title: "International Conference on Learning Representations"
+
+rombach2022:
+  type: article
+  title: "High-Resolution Image Synthesis with Latent Diffusion Models"
+  author: ["Rombach, Robin", "Blattmann, Andreas", "Lorenz, Dominik", "Esser, Patrick", "Ommer, Björn"]
+  date: 2022
+  parent:
+    type: periodical
+    title: "IEEE Conference on Computer Vision and Pattern Recognition"
+
+brooks2024:
+  type: report
+  title: "Video Generation Models as World Simulators"
+  author: ["Brooks, Tim", "Peebles, Bill", "Holmes, Connor"]
+  date: 2024
+  note: "Sora technical report"
+  organization: "OpenAI"
+
+mcp2024:
+  type: web
+  title: "Introducing the Model Context Protocol"
+  author: ["Anthropic"]
+  date: 2024-11-25
+  url: https://modelcontextprotocol.io
+
+sutskever2014:
+  type: article
+  title: "Sequence to Sequence Learning with Neural Networks"
+  author: ["Sutskever, Ilya", "Vinyals, Oriol", "Le, Quoc V."]
+  date: 2014
+  parent:
+    type: periodical
+    title: "Advances in Neural Information Processing Systems"
+
+liu2023lost:
+  type: article
+  title: "Lost in the Middle: How Language Models Use Long Contexts"
+  author: ["Liu, Nelson F.", "Lin, Kevin", "Hewitt, John", "Paranjape, Ashwin", "Bevilacqua, Michele", "Petroni, Fabio", "Liang, Percy"]
+  date: 2023
+  parent:
+    type: periodical
+    title: "Transactions of the Association for Computational Linguistics"
+
+karras2018:
+  type: article
+  title: "Progressive Growing of GANs for Improved Quality, Stability, and Variation"
+  author: ["Karras, Tero", "Aila, Timo", "Laine, Samuli", "Lehtinen, Jaakko"]
+  date: 2018
+  parent:
+    type: periodical
+    title: "International Conference on Learning Representations"
+
+zhu2017:
+  type: article
+  title: "Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks"
+  author: ["Zhu, Jun-Yan", "Park, Taesung", "Isola, Phillip", "Efros, Alexei A."]
+  date: 2017
+  parent:
+    type: periodical
+    title: "IEEE International Conference on Computer Vision"
+
+oord2016:
+  type: article
+  title: "WaveNet: A Generative Model for Raw Audio"
+  author: ["van den Oord, Aäron", "Dieleman, Sander", "Zen, Heiga"]
+  date: 2016
+  note: "arXiv:1609.03499"
+
+polyak2024:
+  type: article
+  title: "Movie Gen: A Cast of Media Foundation Models"
+  author: ["Polyak, Adam", "Zohar, Amit", "Brown, Andrew"]
+  date: 2024
+  note: "arXiv:2410.13720"
+
+valevski2024:
+  type: article
+  title: "Diffusion Models Are Real-Time Game Engines"
+  author: ["Valevski, Dani", "Leviathan, Yaniv", "Arar, Moab", "Fruchter, Shlomi"]
+  date: 2024
+  note: "arXiv:2408.14837"
+
+ha2018:
+  type: article
+  title: "World Models"
+  author: ["Ha, David", "Schmidhuber, Jürgen"]
+  date: 2018
+  note: "arXiv:1803.10122"
+
+jumper2021:
+  type: article
+  title: "Highly Accurate Protein Structure Prediction with AlphaFold"
+  author: ["Jumper, John", "Evans, Richard", "Pritzel, Alexander"]
+  date: 2021
+  page-range: 583-589
+  parent:
+    type: periodical
+    title: "Nature"
+    volume: 596
+
+wang2024:
+  type: article
+  title: "Large Language Models for Robotics: Opportunities, Challenges, and Perspectives"
+  author: ["Wang, Jiaqi", "Wu, Zihao", "Li, Yiwei"]
+  date: 2024
+  note: "arXiv:2401.04334"
+
+alakhdar2024:
+  type: article
+  title: "Diffusion Models in De Novo Drug Design"
+  author: ["Alakhdar, Amira", "Poczos, Barnabas", "Washburn, Newell"]
+  date: 2024
+  parent:
+    type: periodical
+    title: "Journal of Chemical Information and Modeling"
+
+lam2023:
+  type: article
+  title: "Learning Skillful Medium-Range Global Weather Forecasting"
+  author: ["Lam, Remi", "Sanchez-Gonzalez, Alvaro", "Willson, Matthew"]
+  date: 2023
+  page-range: 1416-1421
+  parent:
+    type: periodical
+    title: "Science"
+    volume: 382
+
+kojima2022:
+  type: article
+  title: "Large Language Models are Zero-Shot Reasoners"
+  author: ["Kojima, Takeshi", "Gu, Shixiang Shane", "Reid, Machel", "Matsuo, Yutaka", "Iwasawa, Yusuke"]
+  date: 2022
+  parent:
+    type: periodical
+    title: "Advances in Neural Information Processing Systems"
+
+rein2023:
+  type: article
+  title: "GPQA: A Graduate-Level Google-Proof Q&A Benchmark"
+  author: ["Rein, David", "Hou, Betty Li", "Stickland, Asa Cooper"]
+  date: 2023
+  note: "arXiv:2311.12022"
+
+lipman2023:
+  type: article
+  title: "Flow Matching for Generative Modeling"
+  author: ["Lipman, Yaron", "Chen, Ricky T. Q.", "Ben-Hamu, Heli", "Nickel, Maximilian", "Le, Matt"]
+  date: 2023
+  parent:
+    type: periodical
+    title: "International Conference on Learning Representations"
+
+gallegos2024:
+  type: article
+  title: "Bias and Fairness in Large Language Models: A Survey"
+  author: ["Gallegos, Isabel O.", "Rossi, Ryan A.", "Barrow, Joe"]
+  date: 2024
+  page-range: 1097-1179
+  parent:
+    type: periodical
+    title: "Computational Linguistics"
+    volume: 50
+
+jiang2024:
+  type: article
+  title: "ArtPrompt: ASCII Art-Based Jailbreak Attacks Against Aligned LLMs"
+  author: ["Jiang, Fengqing", "Xu, Zhangchen", "Niu, Luyao"]
+  date: 2024
+  parent:
+    type: periodical
+    title: "Annual Meeting of the Association for Computational Linguistics"
+
+david2023:
+  type: web
+  title: "AI Sees White Man, But It's Actually a Black Man"
+  author: ["David, Derick"]
+  date: 2023
+  url: https://medium.com/utopian/ai-sees-white-man-but-its-actually-a-black-man-abb91990b1e
+  parent:
+    type: periodical
+    title: "Utopian (Medium)"
+
+robertson2024:
+  type: web
+  title: "Google Apologizes for 'Missing the Mark' After Gemini Generated Racially Diverse Nazis"
+  author: ["Robertson, Adi"]
+  date: 2024-02-21
+  url: https://www.theverge.com/2024/2/21/24079371/google-ai-gemini-generative-inaccurate-historical
+  parent:
+    type: periodical
+    title: "The Verge"

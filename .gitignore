@@ -1,0 +1,6 @@
+.claude/
+.temp/
+.DS_Store
+.venv/
+__pycache__/
+todo.md

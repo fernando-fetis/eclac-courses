@@ -1,0 +1,146 @@
+# Bibliography of lecture 2, in Hayagriva format and printed in APA style by `references()`.
+# Conference proceedings are declared as `periodical` because that is the shape the APA style composes correctly.
+
+christiano2017:
+  type: article
+  title: "Deep Reinforcement Learning from Human Preferences"
+  author: ["Christiano, Paul F.", "Leike, Jan", "Brown, Tom B.", "Martic, Miljan", "Legg, Shane", "Amodei, Dario"]
+  date: 2017
+  parent:
+    type: periodical
+    title: "Advances in Neural Information Processing Systems"
+    volume: 30
+
+deepseek2025:
+  type: article
+  title: "DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning"
+  author: ["DeepSeek-AI"]
+  date: 2025
+  serial-number:
+    arxiv: "2501.12948"
+
+dubey2024:
+  type: article
+  title: "The Llama 3 Herd of Models"
+  author: ["Grattafiori, Aaron", "Dubey, Abhimanyu", "Jauhri, Abhinav", "Pandey, Abhinav"]
+  date: 2024
+  serial-number:
+    arxiv: "2407.21783"
+
+hoffmann2022:
+  type: article
+  title: "Training Compute-Optimal Large Language Models"
+  author: ["Hoffmann, Jordan", "Borgeaud, Sebastian", "Mensch, Arthur", "Buchatskaya, Elena", "Sifre, Laurent"]
+  date: 2022
+  parent:
+    type: periodical
+    title: "Advances in Neural Information Processing Systems"
+    volume: 35
+
+holtzman2020:
+  type: article
+  title: "The Curious Case of Neural Text Degeneration"
+  author: ["Holtzman, Ari", "Buys, Jan", "Du, Li", "Forbes, Maxwell", "Choi, Yejin"]
+  date: 2020
+  parent:
+    type: periodical
+    title: "International Conference on Learning Representations"
+
+kaplan2020:
+  type: article
+  title: "Scaling Laws for Neural Language Models"
+  author: ["Kaplan, Jared", "McCandlish, Sam", "Henighan, Tom", "Brown, Tom B.", "Chess, Benjamin", "Child, Rewon", "Gray, Scott", "Radford, Alec", "Wu, Jeffrey", "Amodei, Dario"]
+  date: 2020
+  serial-number:
+    arxiv: "2001.08361"
+
+ouyang2022:
+  type: article
+  title: "Training Language Models to Follow Instructions with Human Feedback"
+  author: ["Ouyang, Long", "Wu, Jeffrey", "Jiang, Xu", "Almeida, Diogo", "Wainwright, Carroll L.", "Mishkin, Pamela", "Lowe, Ryan"]
+  date: 2022
+  parent:
+    type: periodical
+    title: "Advances in Neural Information Processing Systems"
+    volume: 35
+
+radford2018:
+  type: report
+  title: "Improving Language Understanding by Generative Pre-Training"
+  author: ["Radford, Alec", "Narasimhan, Karthik", "Salimans, Tim", "Sutskever, Ilya"]
+  date: 2018
+  publisher: "OpenAI"
+
+radford2019:
+  type: report
+  title: "Language Models are Unsupervised Multitask Learners"
+  author: ["Radford, Alec", "Wu, Jeffrey", "Child, Rewon", "Luan, David", "Amodei, Dario", "Sutskever, Ilya"]
+  date: 2019
+  publisher: "OpenAI"
+
+rafailov2023:
+  type: article
+  title: "Direct Preference Optimization: Your Language Model is Secretly a Reward Model"
+  author: ["Rafailov, Rafael", "Sharma, Archit", "Mitchell, Eric", "Ermon, Stefano", "Manning, Christopher D.", "Finn, Chelsea"]
+  date: 2023
+  parent:
+    type: periodical
+    title: "Advances in Neural Information Processing Systems"
+    volume: 36
+
+sainz2023:
+  type: article
+  title: "NLP Evaluation in Trouble: On the Need to Measure LLM Data Contamination for each Benchmark"
+  author: ["Sainz, Oscar", "Campos, Jon Ander", "García-Ferrero, Iker", "Etxaniz, Julen", "de Lacalle, Oier Lopez", "Agirre, Eneko"]
+  date: 2023
+  parent:
+    type: periodical
+    title: "Findings of the Association for Computational Linguistics: EMNLP 2023"
+
+sennrich2016:
+  type: article
+  title: "Neural Machine Translation of Rare Words with Subword Units"
+  author: ["Sennrich, Rico", "Haddow, Barry", "Birch, Alexandra"]
+  date: 2016
+  parent:
+    type: periodical
+    title: "Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics"
+
+vaswani2017:
+  type: article
+  title: "Attention Is All You Need"
+  author: ["Vaswani, Ashish", "Shazeer, Noam", "Parmar, Niki", "Uszkoreit, Jakob", "Jones, Llion", "Gomez, Aidan N.", "Kaiser, Łukasz", "Polosukhin, Illia"]
+  date: 2017
+  parent:
+    type: periodical
+    title: "Advances in Neural Information Processing Systems"
+    volume: 30
+
+wei2022cot:
+  type: article
+  title: "Chain-of-Thought Prompting Elicits Reasoning in Large Language Models"
+  author: ["Wei, Jason", "Wang, Xuezhi", "Schuurmans, Dale", "Bosma, Maarten", "Ichter, Brian", "Xia, Fei", "Chi, Ed H.", "Le, Quoc V.", "Zhou, Denny"]
+  date: 2022
+  parent:
+    type: periodical
+    title: "Advances in Neural Information Processing Systems"
+    volume: 35
+
+wei2022finetuned:
+  type: article
+  title: "Finetuned Language Models Are Zero-Shot Learners"
+  author: ["Wei, Jason", "Bosma, Maarten", "Zhao, Vincent Y.", "Guu, Kelvin", "Yu, Adams Wei", "Lester, Brian", "Du, Nan", "Dai, Andrew M.", "Le, Quoc V."]
+  date: 2022
+  parent:
+    type: periodical
+    title: "International Conference on Learning Representations"
+
+zheng2023:
+  type: article
+  title: "Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena"
+  author: ["Zheng, Lianmin", "Chiang, Wei-Lin", "Sheng, Ying", "Zhuang, Siyuan", "Wu, Zhanghao", "Zhuang, Yonghao", "Li, Zi", "Stoica, Ion"]
+  date: 2023
+  parent:
+    type: periodical
+    title: "Advances in Neural Information Processing Systems"
+    volume: 36

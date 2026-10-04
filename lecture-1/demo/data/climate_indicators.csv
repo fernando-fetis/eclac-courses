@@ -1,0 +1,1576 @@
+iso3,country_name,year,indicator,unit,value
+ARG,Argentina,2000,annual_precipitation,mm per year,690.07
+ARG,Argentina,2001,annual_precipitation,mm per year,628.35
+ARG,Argentina,2002,annual_precipitation,mm per year,551.12
+ARG,Argentina,2003,annual_precipitation,mm per year,623.62
+ARG,Argentina,2004,annual_precipitation,mm per year,606.01
+ARG,Argentina,2005,annual_precipitation,mm per year,617.06
+ARG,Argentina,2006,annual_precipitation,mm per year,586.17
+ARG,Argentina,2007,annual_precipitation,mm per year,625.39
+ARG,Argentina,2008,annual_precipitation,mm per year,623.83
+ARG,Argentina,2009,annual_precipitation,mm per year,727.38
+ARG,Argentina,2010,annual_precipitation,mm per year,677.39
+ARG,Argentina,2011,annual_precipitation,mm per year,547.97
+ARG,Argentina,2012,annual_precipitation,mm per year,608.06
+ARG,Argentina,2013,annual_precipitation,mm per year,692.88
+ARG,Argentina,2014,annual_precipitation,mm per year,601.53
+ARG,Argentina,2015,annual_precipitation,mm per year,612.17
+ARG,Argentina,2016,annual_precipitation,mm per year,558.57
+ARG,Argentina,2017,annual_precipitation,mm per year,621.03
+ARG,Argentina,2018,annual_precipitation,mm per year,512.59
+ARG,Argentina,2019,annual_precipitation,mm per year,670.05
+ARG,Argentina,2020,annual_precipitation,mm per year,680.41
+ARG,Argentina,2021,annual_precipitation,mm per year,581.51
+ARG,Argentina,2022,annual_precipitation,mm per year,646.2
+ARG,Argentina,2023,annual_precipitation,mm per year,548.16
+ARG,Argentina,2024,annual_precipitation,mm per year,691.47
+ARG,Argentina,2000,forest_area_pct_of_land,percent,11.89
+ARG,Argentina,2001,forest_area_pct_of_land,percent,11.69
+ARG,Argentina,2002,forest_area_pct_of_land,percent,11.55
+ARG,Argentina,2003,forest_area_pct_of_land,percent,11.56
+ARG,Argentina,2004,forest_area_pct_of_land,percent,11.48
+ARG,Argentina,2005,forest_area_pct_of_land,percent,11.42
+ARG,Argentina,2006,forest_area_pct_of_land,percent,11.27
+ARG,Argentina,2007,forest_area_pct_of_land,percent,11.3
+ARG,Argentina,2008,forest_area_pct_of_land,percent,11.12
+ARG,Argentina,2009,forest_area_pct_of_land,percent,11.15
+ARG,Argentina,2010,forest_area_pct_of_land,percent,10.99
+ARG,Argentina,2011,forest_area_pct_of_land,percent,10.92
+ARG,Argentina,2012,forest_area_pct_of_land,percent,10.81
+ARG,Argentina,2013,forest_area_pct_of_land,percent,10.84
+ARG,Argentina,2014,forest_area_pct_of_land,percent,10.62
+ARG,Argentina,2015,forest_area_pct_of_land,percent,10.58
+ARG,Argentina,2016,forest_area_pct_of_land,percent,10.49
+ARG,Argentina,2017,forest_area_pct_of_land,percent,10.48
+ARG,Argentina,2018,forest_area_pct_of_land,percent,10.35
+ARG,Argentina,2019,forest_area_pct_of_land,percent,10.27
+ARG,Argentina,2020,forest_area_pct_of_land,percent,10.16
+ARG,Argentina,2021,forest_area_pct_of_land,percent,10.13
+ARG,Argentina,2022,forest_area_pct_of_land,percent,10.08
+ARG,Argentina,2023,forest_area_pct_of_land,percent,9.89
+ARG,Argentina,2024,forest_area_pct_of_land,percent,9.88
+ARG,Argentina,2000,mean_temperature_anomaly,degrees Celsius,0.5
+ARG,Argentina,2001,mean_temperature_anomaly,degrees Celsius,0.39
+ARG,Argentina,2002,mean_temperature_anomaly,degrees Celsius,0.41
+ARG,Argentina,2003,mean_temperature_anomaly,degrees Celsius,0.51
+ARG,Argentina,2004,mean_temperature_anomaly,degrees Celsius,0.55
+ARG,Argentina,2005,mean_temperature_anomaly,degrees Celsius,0.65
+ARG,Argentina,2006,mean_temperature_anomaly,degrees Celsius,0.6
+ARG,Argentina,2007,mean_temperature_anomaly,degrees Celsius,0.65
+ARG,Argentina,2008,mean_temperature_anomaly,degrees Celsius,0.5
+ARG,Argentina,2009,mean_temperature_anomaly,degrees Celsius,0.58
+ARG,Argentina,2010,mean_temperature_anomaly,degrees Celsius,0.71
+ARG,Argentina,2011,mean_temperature_anomaly,degrees Celsius,0.77
+ARG,Argentina,2012,mean_temperature_anomaly,degrees Celsius,NA
+ARG,Argentina,2013,mean_temperature_anomaly,degrees Celsius,0.73
+ARG,Argentina,2014,mean_temperature_anomaly,degrees Celsius,0.86
+ARG,Argentina,2015,mean_temperature_anomaly,degrees Celsius,0.94
+ARG,Argentina,2016,mean_temperature_anomaly,degrees Celsius,0.88
+ARG,Argentina,2017,mean_temperature_anomaly,degrees Celsius,0.92
+ARG,Argentina,2018,mean_temperature_anomaly,degrees Celsius,0.98
+ARG,Argentina,2019,mean_temperature_anomaly,degrees Celsius,0.98
+ARG,Argentina,2020,mean_temperature_anomaly,degrees Celsius,NA
+ARG,Argentina,2021,mean_temperature_anomaly,degrees Celsius,0.9
+ARG,Argentina,2022,mean_temperature_anomaly,degrees Celsius,1.12
+ARG,Argentina,2023,mean_temperature_anomaly,degrees Celsius,0.96
+ARG,Argentina,2024,mean_temperature_anomaly,degrees Celsius,1.15
+BOL,Bolivia,2000,annual_precipitation,mm per year,1099.44
+BOL,Bolivia,2001,annual_precipitation,mm per year,1201.39
+BOL,Bolivia,2002,annual_precipitation,mm per year,989.63
+BOL,Bolivia,2003,annual_precipitation,mm per year,1338.13
+BOL,Bolivia,2004,annual_precipitation,mm per year,1213.25
+BOL,Bolivia,2005,annual_precipitation,mm per year,1251.64
+BOL,Bolivia,2006,annual_precipitation,mm per year,1032.59
+BOL,Bolivia,2007,annual_precipitation,mm per year,1093.47
+BOL,Bolivia,2008,annual_precipitation,mm per year,1315.48
+BOL,Bolivia,2009,annual_precipitation,mm per year,1024.65
+BOL,Bolivia,2010,annual_precipitation,mm per year,1113.0
+BOL,Bolivia,2011,annual_precipitation,mm per year,1220.04
+BOL,Bolivia,2012,annual_precipitation,mm per year,1227.6
+BOL,Bolivia,2013,annual_precipitation,mm per year,1182.35
+BOL,Bolivia,2014,annual_precipitation,mm per year,
+BOL,Bolivia,2015,annual_precipitation,mm per year,1118.18
+BOL,Bolivia,2016,annual_precipitation,mm per year,1267.1
+BOL,Bolivia,2017,annual_precipitation,mm per year,1219.98
+BOL,Bolivia,2018,annual_precipitation,mm per year,1351.55
+BOL,Bolivia,2019,annual_precipitation,mm per year,1017.01
+BOL,Bolivia,2020,annual_precipitation,mm per year,1122.23
+BOL,Bolivia,2021,annual_precipitation,mm per year,1322.77
+BOL,Bolivia,2022,annual_precipitation,mm per year,976.27
+BOL,Bolivia,2023,annual_precipitation,mm per year,1198.78
+BOL,Bolivia,2024,annual_precipitation,mm per year,1332.25
+BOL,Bolivia,2000,forest_area_pct_of_land,percent,54.1
+BOL,Bolivia,2001,forest_area_pct_of_land,percent,53.92
+BOL,Bolivia,2002,forest_area_pct_of_land,percent,53.56
+BOL,Bolivia,2003,forest_area_pct_of_land,percent,53.24
+BOL,Bolivia,2004,forest_area_pct_of_land,percent,52.93
+BOL,Bolivia,2005,forest_area_pct_of_land,percent,52.62
+BOL,Bolivia,2006,forest_area_pct_of_land,percent,52.36
+BOL,Bolivia,2007,forest_area_pct_of_land,percent,51.9
+BOL,Bolivia,2008,forest_area_pct_of_land,percent,51.69
+BOL,Bolivia,2009,forest_area_pct_of_land,percent,51.24
+BOL,Bolivia,2010,forest_area_pct_of_land,percent,50.95
+BOL,Bolivia,2011,forest_area_pct_of_land,percent,50.7
+BOL,Bolivia,2012,forest_area_pct_of_land,percent,50.45
+BOL,Bolivia,2013,forest_area_pct_of_land,percent,50.1
+BOL,Bolivia,2014,forest_area_pct_of_land,percent,49.74
+BOL,Bolivia,2015,forest_area_pct_of_land,percent,49.34
+BOL,Bolivia,2016,forest_area_pct_of_land,percent,49.02
+BOL,Bolivia,2017,forest_area_pct_of_land,percent,48.76
+BOL,Bolivia,2018,forest_area_pct_of_land,percent,48.43
+BOL,Bolivia,2019,forest_area_pct_of_land,percent,48.15
+BOL,Bolivia,2020,forest_area_pct_of_land,percent,47.73
+BOL,Bolivia,2021,forest_area_pct_of_land,percent,47.39
+BOL,Bolivia,2022,forest_area_pct_of_land,percent,47.14
+BOL,Bolivia,2023,forest_area_pct_of_land,percent,46.83
+BOL,Bolivia,2024,forest_area_pct_of_land,percent,46.52
+BOL,Bolivia,2000,mean_temperature_anomaly,degrees Celsius,0.47
+BOL,Bolivia,2001,mean_temperature_anomaly,degrees Celsius,0.03
+BOL,Bolivia,2002,mean_temperature_anomaly,degrees Celsius,0.46
+BOL,Bolivia,2003,mean_temperature_anomaly,degrees Celsius,0.53
+BOL,Bolivia,2004,mean_temperature_anomaly,degrees Celsius,0.51
+BOL,Bolivia,2005,mean_temperature_anomaly,degrees Celsius,0.36
+BOL,Bolivia,2006,mean_temperature_anomaly,degrees Celsius,0.75
+BOL,Bolivia,2007,mean_temperature_anomaly,degrees Celsius,0.67
+BOL,Bolivia,2008,mean_temperature_anomaly,degrees Celsius,0.66
+BOL,Bolivia,2009,mean_temperature_anomaly,degrees Celsius,0.48
+BOL,Bolivia,2010,mean_temperature_anomaly,degrees Celsius,..
+BOL,Bolivia,2011,mean_temperature_anomaly,degrees Celsius,0.87
+BOL,Bolivia,2012,mean_temperature_anomaly,degrees Celsius,0.63
+BOL,Bolivia,2013,mean_temperature_anomaly,degrees Celsius,0.78
+BOL,Bolivia,2014,mean_temperature_anomaly,degrees Celsius,0.9
+BOL,Bolivia,2015,mean_temperature_anomaly,degrees Celsius,0.53
+BOL,Bolivia,2016,mean_temperature_anomaly,degrees Celsius,0.75
+BOL,Bolivia,2017,mean_temperature_anomaly,degrees Celsius,0.87
+BOL,Bolivia,2018,mean_temperature_anomaly,degrees Celsius,0.87
+BOL,Bolivia,2019,mean_temperature_anomaly,degrees Celsius,1.06
+BOL,Bolivia,2020,mean_temperature_anomaly,degrees Celsius,1.03
+BOL,Bolivia,2021,mean_temperature_anomaly,degrees Celsius,1.09
+BOL,Bolivia,2022,mean_temperature_anomaly,degrees Celsius,1.08
+BOL,Bolivia,2023,mean_temperature_anomaly,degrees Celsius,0.9
+BOL,Bolivia,2024,mean_temperature_anomaly,degrees Celsius,1.21
+BRA,Brazil,2000,annual_precipitation,mm per year,1763.93
+BRA,Brazil,2001,annual_precipitation,mm per year,1872.93
+BRA,Brazil,2002,annual_precipitation,mm per year,
+BRA,Brazil,2003,annual_precipitation,mm per year,1929.97
+BRA,Brazil,2004,annual_precipitation,mm per year,2188.59
+BRA,Brazil,2005,annual_precipitation,mm per year,1916.26
+BRA,Brazil,2006,annual_precipitation,mm per year,1860.32
+BRA,Brazil,2007,annual_precipitation,mm per year,1916.92
+BRA,Brazil,2008,annual_precipitation,mm per year,1822.68
+BRA,Brazil,2009,annual_precipitation,mm per year,1954.64
+BRA,Brazil,2010,annual_precipitation,mm per year,1561.82
+BRA,Brazil,2011,annual_precipitation,mm per year,1783.68
+BRA,Brazil,2012,annual_precipitation,mm per year,1806.32
+BRA,Brazil,2013,annual_precipitation,mm per year,1907.45
+BRA,Brazil,2014,annual_precipitation,mm per year,1726.42
+BRA,Brazil,2015,annual_precipitation,mm per year,1567.67
+BRA,Brazil,2016,annual_precipitation,mm per year,1884.18
+BRA,Brazil,2017,annual_precipitation,mm per year,1597.12
+BRA,Brazil,2018,annual_precipitation,mm per year,1908.02
+BRA,Brazil,2019,annual_precipitation,mm per year,1830.13
+BRA,Brazil,2020,annual_precipitation,mm per year,1682.88
+BRA,Brazil,2021,annual_precipitation,mm per year,1670.12
+BRA,Brazil,2022,annual_precipitation,mm per year,1659.8
+BRA,Brazil,2023,annual_precipitation,mm per year,1903.64
+BRA,Brazil,2024,annual_precipitation,mm per year,1821.68
+BRA,Brazil,2000,forest_area_pct_of_land,percent,64.42
+BRA,Brazil,2001,forest_area_pct_of_land,percent,64.21
+BRA,Brazil,2002,forest_area_pct_of_land,percent,64.03
+BRA,Brazil,2003,forest_area_pct_of_land,percent,63.74
+BRA,Brazil,2004,forest_area_pct_of_land,percent,63.49
+BRA,Brazil,2005,forest_area_pct_of_land,percent,63.27
+BRA,Brazil,2006,forest_area_pct_of_land,percent,62.96
+BRA,Brazil,2007,forest_area_pct_of_land,percent,62.75
+BRA,Brazil,2008,forest_area_pct_of_land,percent,62.52
+BRA,Brazil,2009,forest_area_pct_of_land,percent,62.22
+BRA,Brazil,2010,forest_area_pct_of_land,percent,61.95
+BRA,Brazil,2011,forest_area_pct_of_land,percent,61.79
+BRA,Brazil,2012,forest_area_pct_of_land,percent,61.59
+BRA,Brazil,2013,forest_area_pct_of_land,percent,61.19
+BRA,Brazil,2014,forest_area_pct_of_land,percent,61.07
+BRA,Brazil,2015,forest_area_pct_of_land,percent,60.74
+BRA,Brazil,2016,forest_area_pct_of_land,percent,60.45
+BRA,Brazil,2017,forest_area_pct_of_land,percent,60.34
+BRA,Brazil,2018,forest_area_pct_of_land,percent,59.89
+BRA,Brazil,2019,forest_area_pct_of_land,percent,59.59
+BRA,Brazil,2020,forest_area_pct_of_land,percent,59.14
+BRA,Brazil,2021,forest_area_pct_of_land,percent,58.78
+BRA,Brazil,2022,forest_area_pct_of_land,percent,58.25
+BRA,Brazil,2023,forest_area_pct_of_land,percent,57.82
+BRA,Brazil,2024,forest_area_pct_of_land,percent,57.43
+BRA,Brazil,2000,mean_temperature_anomaly,degrees Celsius,0.44
+BRA,Brazil,2001,mean_temperature_anomaly,degrees Celsius,0.59
+BRA,Brazil,2002,mean_temperature_anomaly,degrees Celsius,0.42
+BRA,Brazil,2003,mean_temperature_anomaly,degrees Celsius,0.61
+BRA,Brazil,2004,mean_temperature_anomaly,degrees Celsius,0.57
+BRA,Brazil,2005,mean_temperature_anomaly,degrees Celsius,0.65
+BRA,Brazil,2006,mean_temperature_anomaly,degrees Celsius,0.5
+BRA,Brazil,2007,mean_temperature_anomaly,degrees Celsius,0.71
+BRA,Brazil,2008,mean_temperature_anomaly,degrees Celsius,0.53
+BRA,Brazil,2009,mean_temperature_anomaly,degrees Celsius,0.52
+BRA,Brazil,2010,mean_temperature_anomaly,degrees Celsius,0.65
+BRA,Brazil,2011,mean_temperature_anomaly,degrees Celsius,0.5
+BRA,Brazil,2012,mean_temperature_anomaly,degrees Celsius,0.64
+BRA,Brazil,2013,mean_temperature_anomaly,degrees Celsius,0.72
+BRA,Brazil,2014,mean_temperature_anomaly,degrees Celsius,0.79
+BRA,Brazil,2015,mean_temperature_anomaly,degrees Celsius,0.64
+BRA,Brazil,2016,mean_temperature_anomaly,degrees Celsius,0.82
+BRA,Brazil,2017,mean_temperature_anomaly,degrees Celsius,0.95
+BRA,Brazil,2018,mean_temperature_anomaly,degrees Celsius,0.85
+BRA,Brazil,2019,mean_temperature_anomaly,degrees Celsius,0.64
+BRA,Brazil,2020,mean_temperature_anomaly,degrees Celsius,1.04
+BRA,Brazil,2021,mean_temperature_anomaly,degrees Celsius,0.96
+BRA,Brazil,2022,mean_temperature_anomaly,degrees Celsius,0.84
+BRA,Brazil,2023,mean_temperature_anomaly,degrees Celsius,0.98
+BRA,Brazil,2024,mean_temperature_anomaly,degrees Celsius,0.96
+CHL,Chile,2000,annual_precipitation,mm per year,580.38
+CHL,Chile,2001,annual_precipitation,mm per year,778.7
+CHL,Chile,2002,annual_precipitation,mm per year,860.15
+CHL,Chile,2003,annual_precipitation,mm per year,796.66
+CHL,Chile,2004,annual_precipitation,mm per year,787.07
+CHL,Chile,2005,annual_precipitation,mm per year,874.55
+CHL,Chile,2006,annual_precipitation,mm per year,794.41
+CHL,Chile,2007,annual_precipitation,mm per year,722.77
+CHL,Chile,2008,annual_precipitation,mm per year,743.7
+CHL,Chile,2009,annual_precipitation,mm per year,676.21
+CHL,Chile,2010,annual_precipitation,mm per year,540.79
+CHL,Chile,2011,annual_precipitation,mm per year,516.21
+CHL,Chile,2012,annual_precipitation,mm per year,542.42
+CHL,Chile,2013,annual_precipitation,mm per year,575.67
+CHL,Chile,2014,annual_precipitation,mm per year,626.23
+CHL,Chile,2015,annual_precipitation,mm per year,418.06
+CHL,Chile,2016,annual_precipitation,mm per year,653.75
+CHL,Chile,2017,annual_precipitation,mm per year,545.31
+CHL,Chile,2018,annual_precipitation,mm per year,532.63
+CHL,Chile,2019,annual_precipitation,mm per year,603.84
+CHL,Chile,2020,annual_precipitation,mm per year,482.13
+CHL,Chile,2021,annual_precipitation,mm per year,503.48
+CHL,Chile,2022,annual_precipitation,mm per year,606.61
+CHL,Chile,2023,annual_precipitation,mm per year,548.18
+CHL,Chile,2024,annual_precipitation,mm per year,652.78
+CHL,Chile,2000,forest_area_pct_of_land,percent,22.74
+CHL,Chile,2001,forest_area_pct_of_land,percent,22.78
+CHL,Chile,2002,forest_area_pct_of_land,percent,22.97
+CHL,Chile,2003,forest_area_pct_of_land,percent,23.0
+CHL,Chile,2004,forest_area_pct_of_land,percent,23.03
+CHL,Chile,2005,forest_area_pct_of_land,percent,23.1
+CHL,Chile,2006,forest_area_pct_of_land,percent,23.16
+CHL,Chile,2007,forest_area_pct_of_land,percent,23.21
+CHL,Chile,2008,forest_area_pct_of_land,percent,23.32
+CHL,Chile,2009,forest_area_pct_of_land,percent,23.31
+CHL,Chile,2010,forest_area_pct_of_land,percent,23.44
+CHL,Chile,2011,forest_area_pct_of_land,percent,23.46
+CHL,Chile,2012,forest_area_pct_of_land,percent,23.45
+CHL,Chile,2013,forest_area_pct_of_land,percent,23.73
+CHL,Chile,2014,forest_area_pct_of_land,percent,23.57
+CHL,Chile,2015,forest_area_pct_of_land,percent,23.67
+CHL,Chile,2016,forest_area_pct_of_land,percent,23.76
+CHL,Chile,2017,forest_area_pct_of_land,percent,23.74
+CHL,Chile,2018,forest_area_pct_of_land,percent,23.88
+CHL,Chile,2019,forest_area_pct_of_land,percent,23.96
+CHL,Chile,2020,forest_area_pct_of_land,percent,23.94
+CHL,Chile,2021,forest_area_pct_of_land,percent,24.09
+CHL,Chile,2022,forest_area_pct_of_land,percent,24.07
+CHL,Chile,2023,forest_area_pct_of_land,percent,24.12
+CHL,Chile,2024,forest_area_pct_of_land,percent,24.23
+CHL,Chile,2000,mean_temperature_anomaly,degrees Celsius,0.52
+CHL,Chile,2001,mean_temperature_anomaly,degrees Celsius,0.39
+CHL,Chile,2002,mean_temperature_anomaly,degrees Celsius,..
+CHL,Chile,2003,mean_temperature_anomaly,degrees Celsius,0.43
+CHL,Chile,2004,mean_temperature_anomaly,degrees Celsius,0.36
+CHL,Chile,2005,mean_temperature_anomaly,degrees Celsius,0.66
+CHL,Chile,2006,mean_temperature_anomaly,degrees Celsius,0.49
+CHL,Chile,2007,mean_temperature_anomaly,degrees Celsius,0.59
+CHL,Chile,2008,mean_temperature_anomaly,degrees Celsius,0.72
+CHL,Chile,2009,mean_temperature_anomaly,degrees Celsius,0.49
+CHL,Chile,2010,mean_temperature_anomaly,degrees Celsius,0.63
+CHL,Chile,2011,mean_temperature_anomaly,degrees Celsius,0.77
+CHL,Chile,2012,mean_temperature_anomaly,degrees Celsius,0.7
+CHL,Chile,2013,mean_temperature_anomaly,degrees Celsius,0.79
+CHL,Chile,2014,mean_temperature_anomaly,degrees Celsius,0.7
+CHL,Chile,2015,mean_temperature_anomaly,degrees Celsius,0.78
+CHL,Chile,2016,mean_temperature_anomaly,degrees Celsius,0.73
+CHL,Chile,2017,mean_temperature_anomaly,degrees Celsius,0.87
+CHL,Chile,2018,mean_temperature_anomaly,degrees Celsius,1.01
+CHL,Chile,2019,mean_temperature_anomaly,degrees Celsius,0.93
+CHL,Chile,2020,mean_temperature_anomaly,degrees Celsius,0.86
+CHL,Chile,2021,mean_temperature_anomaly,degrees Celsius,0.82
+CHL,Chile,2022,mean_temperature_anomaly,degrees Celsius,1.06
+CHL,Chile,2023,mean_temperature_anomaly,degrees Celsius,1.22
+CHL,Chile,2024,mean_temperature_anomaly,degrees Celsius,1.06
+COL,Colombia,2000,annual_precipitation,mm per year,3163.78
+COL,Colombia,2001,annual_precipitation,mm per year,2847.26
+COL,Colombia,2002,annual_precipitation,mm per year,2846.47
+COL,Colombia,2003,annual_precipitation,mm per year,3595.77
+COL,Colombia,2004,annual_precipitation,mm per year,3345.44
+COL,Colombia,2005,annual_precipitation,mm per year,3206.42
+COL,Colombia,2006,annual_precipitation,mm per year,3216.25
+COL,Colombia,2007,annual_precipitation,mm per year,2667.44
+COL,Colombia,2008,annual_precipitation,mm per year,3190.54
+COL,Colombia,2009,annual_precipitation,mm per year,3132.76
+COL,Colombia,2010,annual_precipitation,mm per year,2449.17
+COL,Colombia,2011,annual_precipitation,mm per year,3158.09
+COL,Colombia,2012,annual_precipitation,mm per year,2838.06
+COL,Colombia,2013,annual_precipitation,mm per year,2958.0
+COL,Colombia,2014,annual_precipitation,mm per year,3100.24
+COL,Colombia,2015,annual_precipitation,mm per year,3275.55
+COL,Colombia,2016,annual_precipitation,mm per year,2928.46
+COL,Colombia,2017,annual_precipitation,mm per year,3037.95
+COL,Colombia,2018,annual_precipitation,mm per year,3710.09
+COL,Colombia,2019,annual_precipitation,mm per year,2960.3
+COL,Colombia,2020,annual_precipitation,mm per year,3082.69
+COL,Colombia,2021,annual_precipitation,mm per year,3160.62
+COL,Colombia,2022,annual_precipitation,mm per year,2574.58
+COL,Colombia,2023,annual_precipitation,mm per year,2757.81
+COL,Colombia,2024,annual_precipitation,mm per year,2762.29
+COL,Colombia,2000,forest_area_pct_of_land,percent,54.88
+COL,Colombia,2001,forest_area_pct_of_land,percent,54.96
+COL,Colombia,2002,forest_area_pct_of_land,percent,54.73
+COL,Colombia,2003,forest_area_pct_of_land,percent,54.61
+COL,Colombia,2004,forest_area_pct_of_land,percent,
+COL,Colombia,2005,forest_area_pct_of_land,percent,54.43
+COL,Colombia,2006,forest_area_pct_of_land,percent,54.19
+COL,Colombia,2007,forest_area_pct_of_land,percent,54.19
+COL,Colombia,2008,forest_area_pct_of_land,percent,53.99
+COL,Colombia,2009,forest_area_pct_of_land,percent,53.89
+COL,Colombia,2010,forest_area_pct_of_land,percent,53.74
+COL,Colombia,2011,forest_area_pct_of_land,percent,53.71
+COL,Colombia,2012,forest_area_pct_of_land,percent,53.54
+COL,Colombia,2013,forest_area_pct_of_land,percent,53.42
+COL,Colombia,2014,forest_area_pct_of_land,percent,53.38
+COL,Colombia,2015,forest_area_pct_of_land,percent,53.17
+COL,Colombia,2016,forest_area_pct_of_land,percent,53.12
+COL,Colombia,2017,forest_area_pct_of_land,percent,52.95
+COL,Colombia,2018,forest_area_pct_of_land,percent,52.87
+COL,Colombia,2019,forest_area_pct_of_land,percent,52.76
+COL,Colombia,2020,forest_area_pct_of_land,percent,52.57
+COL,Colombia,2021,forest_area_pct_of_land,percent,52.48
+COL,Colombia,2022,forest_area_pct_of_land,percent,52.41
+COL,Colombia,2023,forest_area_pct_of_land,percent,52.14
+COL,Colombia,2024,forest_area_pct_of_land,percent,52.18
+COL,Colombia,2000,mean_temperature_anomaly,degrees Celsius,0.51
+COL,Colombia,2001,mean_temperature_anomaly,degrees Celsius,0.37
+COL,Colombia,2002,mean_temperature_anomaly,degrees Celsius,0.43
+COL,Colombia,2003,mean_temperature_anomaly,degrees Celsius,0.58
+COL,Colombia,2004,mean_temperature_anomaly,degrees Celsius,0.78
+COL,Colombia,2005,mean_temperature_anomaly,degrees Celsius,0.57
+COL,Colombia,2006,mean_temperature_anomaly,degrees Celsius,0.53
+COL,Colombia,2007,mean_temperature_anomaly,degrees Celsius,0.41
+COL,Colombia,2008,mean_temperature_anomaly,degrees Celsius,0.45
+COL,Colombia,2009,mean_temperature_anomaly,degrees Celsius,0.96
+COL,Colombia,2010,mean_temperature_anomaly,degrees Celsius,NA
+COL,Colombia,2011,mean_temperature_anomaly,degrees Celsius,0.7
+COL,Colombia,2012,mean_temperature_anomaly,degrees Celsius,0.86
+COL,Colombia,2013,mean_temperature_anomaly,degrees Celsius,0.62
+COL,Colombia,2014,mean_temperature_anomaly,degrees Celsius,0.65
+COL,Colombia,2015,mean_temperature_anomaly,degrees Celsius,0.85
+COL,Colombia,2016,mean_temperature_anomaly,degrees Celsius,0.65
+COL,Colombia,2017,mean_temperature_anomaly,degrees Celsius,0.68
+COL,Colombia,2018,mean_temperature_anomaly,degrees Celsius,0.99
+COL,Colombia,2019,mean_temperature_anomaly,degrees Celsius,..
+COL,Colombia,2020,mean_temperature_anomaly,degrees Celsius,0.77
+COL,Colombia,2021,mean_temperature_anomaly,degrees Celsius,0.97
+COL,Colombia,2022,mean_temperature_anomaly,degrees Celsius,0.89
+COL,Colombia,2023,mean_temperature_anomaly,degrees Celsius,1.33
+COL,Colombia,2024,mean_temperature_anomaly,degrees Celsius,0.94
+CRI,Costa Rica,2000,annual_precipitation,mm per year,2568.25
+CRI,Costa Rica,2001,annual_precipitation,mm per year,3081.51
+CRI,Costa Rica,2002,annual_precipitation,mm per year,3043.74
+CRI,Costa Rica,2003,annual_precipitation,mm per year,2872.62
+CRI,Costa Rica,2004,annual_precipitation,mm per year,3144.19
+CRI,Costa Rica,2005,annual_precipitation,mm per year,2744.04
+CRI,Costa Rica,2006,annual_precipitation,mm per year,2721.13
+CRI,Costa Rica,2007,annual_precipitation,mm per year,2645.74
+CRI,Costa Rica,2008,annual_precipitation,mm per year,3201.7
+CRI,Costa Rica,2009,annual_precipitation,mm per year,2992.68
+CRI,Costa Rica,2010,annual_precipitation,mm per year,2897.94
+CRI,Costa Rica,2011,annual_precipitation,mm per year,2947.74
+CRI,Costa Rica,2012,annual_precipitation,mm per year,3082.68
+CRI,Costa Rica,2013,annual_precipitation,mm per year,2859.63
+CRI,Costa Rica,2014,annual_precipitation,mm per year,2868.4
+CRI,Costa Rica,2015,annual_precipitation,mm per year,2656.5
+CRI,Costa Rica,2016,annual_precipitation,mm per year,2912.27
+CRI,Costa Rica,2017,annual_precipitation,mm per year,3010.62
+CRI,Costa Rica,2018,annual_precipitation,mm per year,2896.6
+CRI,Costa Rica,2019,annual_precipitation,mm per year,2950.57
+CRI,Costa Rica,2020,annual_precipitation,mm per year,2838.08
+CRI,Costa Rica,2021,annual_precipitation,mm per year,3229.49
+CRI,Costa Rica,2022,annual_precipitation,mm per year,3066.5
+CRI,Costa Rica,2023,annual_precipitation,mm per year,2881.69
+CRI,Costa Rica,2024,annual_precipitation,mm per year,3053.07
+CRI,Costa Rica,2000,forest_area_pct_of_land,percent,46.45
+CRI,Costa Rica,2001,forest_area_pct_of_land,percent,46.85
+CRI,Costa Rica,2002,forest_area_pct_of_land,percent,47.07
+CRI,Costa Rica,2003,forest_area_pct_of_land,percent,47.35
+CRI,Costa Rica,2004,forest_area_pct_of_land,percent,47.55
+CRI,Costa Rica,2005,forest_area_pct_of_land,percent,47.92
+CRI,Costa Rica,2006,forest_area_pct_of_land,percent,48.17
+CRI,Costa Rica,2007,forest_area_pct_of_land,percent,48.53
+CRI,Costa Rica,2008,forest_area_pct_of_land,percent,48.69
+CRI,Costa Rica,2009,forest_area_pct_of_land,percent,49.06
+CRI,Costa Rica,2010,forest_area_pct_of_land,percent,49.32
+CRI,Costa Rica,2011,forest_area_pct_of_land,percent,49.54
+CRI,Costa Rica,2012,forest_area_pct_of_land,percent,49.94
+CRI,Costa Rica,2013,forest_area_pct_of_land,percent,50.13
+CRI,Costa Rica,2014,forest_area_pct_of_land,percent,50.36
+CRI,Costa Rica,2015,forest_area_pct_of_land,percent,50.69
+CRI,Costa Rica,2016,forest_area_pct_of_land,percent,51.0
+CRI,Costa Rica,2017,forest_area_pct_of_land,percent,51.25
+CRI,Costa Rica,2018,forest_area_pct_of_land,percent,51.56
+CRI,Costa Rica,2019,forest_area_pct_of_land,percent,51.79
+CRI,Costa Rica,2020,forest_area_pct_of_land,percent,52.09
+CRI,Costa Rica,2021,forest_area_pct_of_land,percent,52.5
+CRI,Costa Rica,2022,forest_area_pct_of_land,percent,52.61
+CRI,Costa Rica,2023,forest_area_pct_of_land,percent,52.97
+CRI,Costa Rica,2024,forest_area_pct_of_land,percent,53.14
+CRI,Costa Rica,2000,mean_temperature_anomaly,degrees Celsius,0.46
+CRI,Costa Rica,2001,mean_temperature_anomaly,degrees Celsius,0.53
+CRI,Costa Rica,2002,mean_temperature_anomaly,degrees Celsius,0.64
+CRI,Costa Rica,2003,mean_temperature_anomaly,degrees Celsius,0.56
+CRI,Costa Rica,2004,mean_temperature_anomaly,degrees Celsius,0.56
+CRI,Costa Rica,2005,mean_temperature_anomaly,degrees Celsius,0.6
+CRI,Costa Rica,2006,mean_temperature_anomaly,degrees Celsius,0.6
+CRI,Costa Rica,2007,mean_temperature_anomaly,degrees Celsius,0.74
+CRI,Costa Rica,2008,mean_temperature_anomaly,degrees Celsius,0.64
+CRI,Costa Rica,2009,mean_temperature_anomaly,degrees Celsius,0.54
+CRI,Costa Rica,2010,mean_temperature_anomaly,degrees Celsius,0.75
+CRI,Costa Rica,2011,mean_temperature_anomaly,degrees Celsius,NA
+CRI,Costa Rica,2012,mean_temperature_anomaly,degrees Celsius,0.7
+CRI,Costa Rica,2013,mean_temperature_anomaly,degrees Celsius,0.68
+CRI,Costa Rica,2014,mean_temperature_anomaly,degrees Celsius,0.75
+CRI,Costa Rica,2015,mean_temperature_anomaly,degrees Celsius,0.92
+CRI,Costa Rica,2016,mean_temperature_anomaly,degrees Celsius,1.01
+CRI,Costa Rica,2017,mean_temperature_anomaly,degrees Celsius,0.92
+CRI,Costa Rica,2018,mean_temperature_anomaly,degrees Celsius,0.79
+CRI,Costa Rica,2019,mean_temperature_anomaly,degrees Celsius,1.03
+CRI,Costa Rica,2020,mean_temperature_anomaly,degrees Celsius,0.96
+CRI,Costa Rica,2021,mean_temperature_anomaly,degrees Celsius,0.91
+CRI,Costa Rica,2022,mean_temperature_anomaly,degrees Celsius,0.81
+CRI,Costa Rica,2023,mean_temperature_anomaly,degrees Celsius,0.99
+CRI,Costa Rica,2024,mean_temperature_anomaly,degrees Celsius,1.0
+CUB,Cuba,2000,annual_precipitation,mm per year,1270.39
+CUB,Cuba,2001,annual_precipitation,mm per year,1364.78
+CUB,Cuba,2002,annual_precipitation,mm per year,1324.65
+CUB,Cuba,2003,annual_precipitation,mm per year,1317.96
+CUB,Cuba,2004,annual_precipitation,mm per year,1257.52
+CUB,Cuba,2005,annual_precipitation,mm per year,1243.48
+CUB,Cuba,2006,annual_precipitation,mm per year,1274.43
+CUB,Cuba,2007,annual_precipitation,mm per year,1317.66
+CUB,Cuba,2008,annual_precipitation,mm per year,1349.64
+CUB,Cuba,2009,annual_precipitation,mm per year,1163.94
+CUB,Cuba,2010,annual_precipitation,mm per year,1347.46
+CUB,Cuba,2011,annual_precipitation,mm per year,1449.68
+CUB,Cuba,2012,annual_precipitation,mm per year,1330.59
+CUB,Cuba,2013,annual_precipitation,mm per year,1149.93
+CUB,Cuba,2014,annual_precipitation,mm per year,1311.71
+CUB,Cuba,2015,annual_precipitation,mm per year,1164.06
+CUB,Cuba,2016,annual_precipitation,mm per year,1576.96
+CUB,Cuba,2017,annual_precipitation,mm per year,1463.49
+CUB,Cuba,2018,annual_precipitation,mm per year,1159.82
+CUB,Cuba,2019,annual_precipitation,mm per year,1473.4
+CUB,Cuba,2020,annual_precipitation,mm per year,1366.13
+CUB,Cuba,2021,annual_precipitation,mm per year,1393.41
+CUB,Cuba,2022,annual_precipitation,mm per year,1236.44
+CUB,Cuba,2023,annual_precipitation,mm per year,1248.82
+CUB,Cuba,2024,annual_precipitation,mm per year,1100.25
+CUB,Cuba,2000,forest_area_pct_of_land,percent,26.0
+CUB,Cuba,2001,forest_area_pct_of_land,percent,26.21
+CUB,Cuba,2002,forest_area_pct_of_land,percent,26.47
+CUB,Cuba,2003,forest_area_pct_of_land,percent,26.67
+CUB,Cuba,2004,forest_area_pct_of_land,percent,26.92
+CUB,Cuba,2005,forest_area_pct_of_land,percent,27.05
+CUB,Cuba,2006,forest_area_pct_of_land,percent,27.34
+CUB,Cuba,2007,forest_area_pct_of_land,percent,27.56
+CUB,Cuba,2008,forest_area_pct_of_land,percent,27.77
+CUB,Cuba,2009,forest_area_pct_of_land,percent,27.98
+CUB,Cuba,2010,forest_area_pct_of_land,percent,28.27
+CUB,Cuba,2011,forest_area_pct_of_land,percent,28.27
+CUB,Cuba,2012,forest_area_pct_of_land,percent,28.63
+CUB,Cuba,2013,forest_area_pct_of_land,percent,28.87
+CUB,Cuba,2014,forest_area_pct_of_land,percent,29.03
+CUB,Cuba,2015,forest_area_pct_of_land,percent,29.38
+CUB,Cuba,2016,forest_area_pct_of_land,percent,29.49
+CUB,Cuba,2017,forest_area_pct_of_land,percent,29.78
+CUB,Cuba,2018,forest_area_pct_of_land,percent,29.95
+CUB,Cuba,2019,forest_area_pct_of_land,percent,30.11
+CUB,Cuba,2020,forest_area_pct_of_land,percent,30.44
+CUB,Cuba,2021,forest_area_pct_of_land,percent,30.58
+CUB,Cuba,2022,forest_area_pct_of_land,percent,30.89
+CUB,Cuba,2023,forest_area_pct_of_land,percent,31.05
+CUB,Cuba,2024,forest_area_pct_of_land,percent,31.35
+CUB,Cuba,2000,mean_temperature_anomaly,degrees Celsius,0.28
+CUB,Cuba,2001,mean_temperature_anomaly,degrees Celsius,0.21
+CUB,Cuba,2002,mean_temperature_anomaly,degrees Celsius,0.38
+CUB,Cuba,2003,mean_temperature_anomaly,degrees Celsius,0.33
+CUB,Cuba,2004,mean_temperature_anomaly,degrees Celsius,0.45
+CUB,Cuba,2005,mean_temperature_anomaly,degrees Celsius,0.58
+CUB,Cuba,2006,mean_temperature_anomaly,degrees Celsius,0.41
+CUB,Cuba,2007,mean_temperature_anomaly,degrees Celsius,0.8
+CUB,Cuba,2008,mean_temperature_anomaly,degrees Celsius,0.65
+CUB,Cuba,2009,mean_temperature_anomaly,degrees Celsius,0.74
+CUB,Cuba,2010,mean_temperature_anomaly,degrees Celsius,0.59
+CUB,Cuba,2011,mean_temperature_anomaly,degrees Celsius,0.61
+CUB,Cuba,2012,mean_temperature_anomaly,degrees Celsius,0.96
+CUB,Cuba,2013,mean_temperature_anomaly,degrees Celsius,0.82
+CUB,Cuba,2014,mean_temperature_anomaly,degrees Celsius,0.73
+CUB,Cuba,2015,mean_temperature_anomaly,degrees Celsius,0.81
+CUB,Cuba,2016,mean_temperature_anomaly,degrees Celsius,0.96
+CUB,Cuba,2017,mean_temperature_anomaly,degrees Celsius,1.08
+CUB,Cuba,2018,mean_temperature_anomaly,degrees Celsius,0.94
+CUB,Cuba,2019,mean_temperature_anomaly,degrees Celsius,0.89
+CUB,Cuba,2020,mean_temperature_anomaly,degrees Celsius,0.79
+CUB,Cuba,2021,mean_temperature_anomaly,degrees Celsius,0.89
+CUB,Cuba,2022,mean_temperature_anomaly,degrees Celsius,0.98
+CUB,Cuba,2023,mean_temperature_anomaly,degrees Celsius,1.05
+CUB,Cuba,2024,mean_temperature_anomaly,degrees Celsius,0.99
+DOM,Dominican Republic,2000,annual_precipitation,mm per year,1482.56
+DOM,Dominican Republic,2001,annual_precipitation,mm per year,1578.76
+DOM,Dominican Republic,2002,annual_precipitation,mm per year,1479.66
+DOM,Dominican Republic,2003,annual_precipitation,mm per year,1427.29
+DOM,Dominican Republic,2004,annual_precipitation,mm per year,1423.37
+DOM,Dominican Republic,2005,annual_precipitation,mm per year,1555.48
+DOM,Dominican Republic,2006,annual_precipitation,mm per year,1208.76
+DOM,Dominican Republic,2007,annual_precipitation,mm per year,1504.43
+DOM,Dominican Republic,2008,annual_precipitation,mm per year,1424.51
+DOM,Dominican Republic,2009,annual_precipitation,mm per year,1235.72
+DOM,Dominican Republic,2010,annual_precipitation,mm per year,1490.37
+DOM,Dominican Republic,2011,annual_precipitation,mm per year,1775.31
+DOM,Dominican Republic,2012,annual_precipitation,mm per year,1669.69
+DOM,Dominican Republic,2013,annual_precipitation,mm per year,1595.83
+DOM,Dominican Republic,2014,annual_precipitation,mm per year,1287.54
+DOM,Dominican Republic,2015,annual_precipitation,mm per year,1503.54
+DOM,Dominican Republic,2016,annual_precipitation,mm per year,1345.64
+DOM,Dominican Republic,2017,annual_precipitation,mm per year,1314.27
+DOM,Dominican Republic,2018,annual_precipitation,mm per year,1377.98
+DOM,Dominican Republic,2019,annual_precipitation,mm per year,1343.35
+DOM,Dominican Republic,2020,annual_precipitation,mm per year,1287.8
+DOM,Dominican Republic,2021,annual_precipitation,mm per year,1609.96
+DOM,Dominican Republic,2022,annual_precipitation,mm per year,1400.03
+DOM,Dominican Republic,2023,annual_precipitation,mm per year,1516.38
+DOM,Dominican Republic,2024,annual_precipitation,mm per year,1310.6
+DOM,Dominican Republic,2000,forest_area_pct_of_land,percent,36.03
+DOM,Dominican Republic,2001,forest_area_pct_of_land,percent,36.34
+DOM,Dominican Republic,2002,forest_area_pct_of_land,percent,36.68
+DOM,Dominican Republic,2003,forest_area_pct_of_land,percent,36.83
+DOM,Dominican Republic,2004,forest_area_pct_of_land,percent,37.18
+DOM,Dominican Republic,2005,forest_area_pct_of_land,percent,37.52
+DOM,Dominican Republic,2006,forest_area_pct_of_land,percent,37.8
+DOM,Dominican Republic,2007,forest_area_pct_of_land,percent,38.03
+DOM,Dominican Republic,2008,forest_area_pct_of_land,percent,38.41
+DOM,Dominican Republic,2009,forest_area_pct_of_land,percent,38.76
+DOM,Dominican Republic,2010,forest_area_pct_of_land,percent,39.06
+DOM,Dominican Republic,2011,forest_area_pct_of_land,percent,39.35
+DOM,Dominican Republic,2012,forest_area_pct_of_land,percent,39.57
+DOM,Dominican Republic,2013,forest_area_pct_of_land,percent,39.92
+DOM,Dominican Republic,2014,forest_area_pct_of_land,percent,40.31
+DOM,Dominican Republic,2015,forest_area_pct_of_land,percent,40.52
+DOM,Dominican Republic,2016,forest_area_pct_of_land,percent,40.8
+DOM,Dominican Republic,2017,forest_area_pct_of_land,percent,41.0
+DOM,Dominican Republic,2018,forest_area_pct_of_land,percent,41.41
+DOM,Dominican Republic,2019,forest_area_pct_of_land,percent,41.72
+DOM,Dominican Republic,2020,forest_area_pct_of_land,percent,41.97
+DOM,Dominican Republic,2021,forest_area_pct_of_land,percent,42.26
+DOM,Dominican Republic,2022,forest_area_pct_of_land,percent,42.57
+DOM,Dominican Republic,2023,forest_area_pct_of_land,percent,42.91
+DOM,Dominican Republic,2024,forest_area_pct_of_land,percent,43.23
+DOM,Dominican Republic,2000,mean_temperature_anomaly,degrees Celsius,0.54
+DOM,Dominican Republic,2001,mean_temperature_anomaly,degrees Celsius,0.58
+DOM,Dominican Republic,2002,mean_temperature_anomaly,degrees Celsius,0.61
+DOM,Dominican Republic,2003,mean_temperature_anomaly,degrees Celsius,0.52
+DOM,Dominican Republic,2004,mean_temperature_anomaly,degrees Celsius,0.47
+DOM,Dominican Republic,2005,mean_temperature_anomaly,degrees Celsius,0.61
+DOM,Dominican Republic,2006,mean_temperature_anomaly,degrees Celsius,0.6
+DOM,Dominican Republic,2007,mean_temperature_anomaly,degrees Celsius,0.84
+DOM,Dominican Republic,2008,mean_temperature_anomaly,degrees Celsius,0.88
+DOM,Dominican Republic,2009,mean_temperature_anomaly,degrees Celsius,0.78
+DOM,Dominican Republic,2010,mean_temperature_anomaly,degrees Celsius,0.69
+DOM,Dominican Republic,2011,mean_temperature_anomaly,degrees Celsius,0.57
+DOM,Dominican Republic,2012,mean_temperature_anomaly,degrees Celsius,0.78
+DOM,Dominican Republic,2013,mean_temperature_anomaly,degrees Celsius,0.78
+DOM,Dominican Republic,2014,mean_temperature_anomaly,degrees Celsius,0.94
+DOM,Dominican Republic,2015,mean_temperature_anomaly,degrees Celsius,0.94
+DOM,Dominican Republic,2016,mean_temperature_anomaly,degrees Celsius,1.03
+DOM,Dominican Republic,2017,mean_temperature_anomaly,degrees Celsius,0.91
+DOM,Dominican Republic,2018,mean_temperature_anomaly,degrees Celsius,0.88
+DOM,Dominican Republic,2019,mean_temperature_anomaly,degrees Celsius,1.14
+DOM,Dominican Republic,2020,mean_temperature_anomaly,degrees Celsius,0.95
+DOM,Dominican Republic,2021,mean_temperature_anomaly,degrees Celsius,0.74
+DOM,Dominican Republic,2022,mean_temperature_anomaly,degrees Celsius,0.98
+DOM,Dominican Republic,2023,mean_temperature_anomaly,degrees Celsius,1.06
+DOM,Dominican Republic,2024,mean_temperature_anomaly,degrees Celsius,1.14
+ECU,Ecuador,2000,annual_precipitation,mm per year,1899.52
+ECU,Ecuador,2001,annual_precipitation,mm per year,2002.8
+ECU,Ecuador,2002,annual_precipitation,mm per year,2443.07
+ECU,Ecuador,2003,annual_precipitation,mm per year,1904.55
+ECU,Ecuador,2004,annual_precipitation,mm per year,2232.67
+ECU,Ecuador,2005,annual_precipitation,mm per year,2178.63
+ECU,Ecuador,2006,annual_precipitation,mm per year,2172.21
+ECU,Ecuador,2007,annual_precipitation,mm per year,2075.16
+ECU,Ecuador,2008,annual_precipitation,mm per year,2220.43
+ECU,Ecuador,2009,annual_precipitation,mm per year,2255.01
+ECU,Ecuador,2010,annual_precipitation,mm per year,2203.47
+ECU,Ecuador,2011,annual_precipitation,mm per year,2356.65
+ECU,Ecuador,2012,annual_precipitation,mm per year,1925.65
+ECU,Ecuador,2013,annual_precipitation,mm per year,2026.84
+ECU,Ecuador,2014,annual_precipitation,mm per year,2130.56
+ECU,Ecuador,2015,annual_precipitation,mm per year,2301.18
+ECU,Ecuador,2016,annual_precipitation,mm per year,2338.28
+ECU,Ecuador,2017,annual_precipitation,mm per year,1966.9
+ECU,Ecuador,2018,annual_precipitation,mm per year,2123.8
+ECU,Ecuador,2019,annual_precipitation,mm per year,1960.18
+ECU,Ecuador,2020,annual_precipitation,mm per year,1847.45
+ECU,Ecuador,2021,annual_precipitation,mm per year,2299.09
+ECU,Ecuador,2022,annual_precipitation,mm per year,1860.58
+ECU,Ecuador,2023,annual_precipitation,mm per year,2252.89
+ECU,Ecuador,2024,annual_precipitation,mm per year,1873.18
+ECU,Ecuador,2000,forest_area_pct_of_land,percent,57.09
+ECU,Ecuador,2001,forest_area_pct_of_land,percent,56.89
+ECU,Ecuador,2002,forest_area_pct_of_land,percent,56.62
+ECU,Ecuador,2003,forest_area_pct_of_land,percent,56.51
+ECU,Ecuador,2004,forest_area_pct_of_land,percent,56.25
+ECU,Ecuador,2005,forest_area_pct_of_land,percent,56.17
+ECU,Ecuador,2006,forest_area_pct_of_land,percent,55.91
+ECU,Ecuador,2007,forest_area_pct_of_land,percent,55.83
+ECU,Ecuador,2008,forest_area_pct_of_land,percent,55.62
+ECU,Ecuador,2009,forest_area_pct_of_land,percent,55.29
+ECU,Ecuador,2010,forest_area_pct_of_land,percent,55.19
+ECU,Ecuador,2011,forest_area_pct_of_land,percent,54.97
+ECU,Ecuador,2012,forest_area_pct_of_land,percent,54.88
+ECU,Ecuador,2013,forest_area_pct_of_land,percent,NA
+ECU,Ecuador,2014,forest_area_pct_of_land,percent,54.45
+ECU,Ecuador,2015,forest_area_pct_of_land,percent,54.36
+ECU,Ecuador,2016,forest_area_pct_of_land,percent,54.19
+ECU,Ecuador,2017,forest_area_pct_of_land,percent,53.93
+ECU,Ecuador,2018,forest_area_pct_of_land,percent,53.77
+ECU,Ecuador,2019,forest_area_pct_of_land,percent,53.54
+ECU,Ecuador,2020,forest_area_pct_of_land,percent,53.41
+ECU,Ecuador,2021,forest_area_pct_of_land,percent,53.27
+ECU,Ecuador,2022,forest_area_pct_of_land,percent,53.04
+ECU,Ecuador,2023,forest_area_pct_of_land,percent,52.84
+ECU,Ecuador,2024,forest_area_pct_of_land,percent,52.67
+ECU,Ecuador,2000,mean_temperature_anomaly,degrees Celsius,0.44
+ECU,Ecuador,2001,mean_temperature_anomaly,degrees Celsius,0.32
+ECU,Ecuador,2002,mean_temperature_anomaly,degrees Celsius,0.39
+ECU,Ecuador,2003,mean_temperature_anomaly,degrees Celsius,0.44
+ECU,Ecuador,2004,mean_temperature_anomaly,degrees Celsius,0.44
+ECU,Ecuador,2005,mean_temperature_anomaly,degrees Celsius,0.69
+ECU,Ecuador,2006,mean_temperature_anomaly,degrees Celsius,0.58
+ECU,Ecuador,2007,mean_temperature_anomaly,degrees Celsius,0.55
+ECU,Ecuador,2008,mean_temperature_anomaly,degrees Celsius,0.48
+ECU,Ecuador,2009,mean_temperature_anomaly,degrees Celsius,0.51
+ECU,Ecuador,2010,mean_temperature_anomaly,degrees Celsius,0.61
+ECU,Ecuador,2011,mean_temperature_anomaly,degrees Celsius,0.62
+ECU,Ecuador,2012,mean_temperature_anomaly,degrees Celsius,0.66
+ECU,Ecuador,2013,mean_temperature_anomaly,degrees Celsius,0.58
+ECU,Ecuador,2014,mean_temperature_anomaly,degrees Celsius,0.75
+ECU,Ecuador,2015,mean_temperature_anomaly,degrees Celsius,0.94
+ECU,Ecuador,2016,mean_temperature_anomaly,degrees Celsius,0.95
+ECU,Ecuador,2017,mean_temperature_anomaly,degrees Celsius,0.77
+ECU,Ecuador,2018,mean_temperature_anomaly,degrees Celsius,0.98
+ECU,Ecuador,2019,mean_temperature_anomaly,degrees Celsius,1.26
+ECU,Ecuador,2020,mean_temperature_anomaly,degrees Celsius,1.09
+ECU,Ecuador,2021,mean_temperature_anomaly,degrees Celsius,0.82
+ECU,Ecuador,2022,mean_temperature_anomaly,degrees Celsius,1.14
+ECU,Ecuador,2023,mean_temperature_anomaly,degrees Celsius,1.0
+ECU,Ecuador,2024,mean_temperature_anomaly,degrees Celsius,
+GTM,Guatemala,2000,annual_precipitation,mm per year,1906.45
+GTM,Guatemala,2001,annual_precipitation,mm per year,2046.92
+GTM,Guatemala,2002,annual_precipitation,mm per year,1992.67
+GTM,Guatemala,2003,annual_precipitation,mm per year,2013.7
+GTM,Guatemala,2004,annual_precipitation,mm per year,2328.38
+GTM,Guatemala,2005,annual_precipitation,mm per year,1787.95
+GTM,Guatemala,2006,annual_precipitation,mm per year,2082.6
+GTM,Guatemala,2007,annual_precipitation,mm per year,2070.38
+GTM,Guatemala,2008,annual_precipitation,mm per year,2219.6
+GTM,Guatemala,2009,annual_precipitation,mm per year,2239.97
+GTM,Guatemala,2010,annual_precipitation,mm per year,2372.92
+GTM,Guatemala,2011,annual_precipitation,mm per year,2179.21
+GTM,Guatemala,2012,annual_precipitation,mm per year,2170.15
+GTM,Guatemala,2013,annual_precipitation,mm per year,2086.75
+GTM,Guatemala,2014,annual_precipitation,mm per year,1730.03
+GTM,Guatemala,2015,annual_precipitation,mm per year,2007.62
+GTM,Guatemala,2016,annual_precipitation,mm per year,1681.96
+GTM,Guatemala,2017,annual_precipitation,mm per year,1922.2
+GTM,Guatemala,2018,annual_precipitation,mm per year,1938.92
+GTM,Guatemala,2019,annual_precipitation,mm per year,
+GTM,Guatemala,2020,annual_precipitation,mm per year,1693.37
+GTM,Guatemala,2021,annual_precipitation,mm per year,2008.91
+GTM,Guatemala,2022,annual_precipitation,mm per year,1922.45
+GTM,Guatemala,2023,annual_precipitation,mm per year,1881.82
+GTM,Guatemala,2024,annual_precipitation,mm per year,2295.44
+GTM,Guatemala,2000,forest_area_pct_of_land,percent,37.89
+GTM,Guatemala,2001,forest_area_pct_of_land,percent,37.67
+GTM,Guatemala,2002,forest_area_pct_of_land,percent,37.39
+GTM,Guatemala,2003,forest_area_pct_of_land,percent,37.14
+GTM,Guatemala,2004,forest_area_pct_of_land,percent,36.82
+GTM,Guatemala,2005,forest_area_pct_of_land,percent,36.45
+GTM,Guatemala,2006,forest_area_pct_of_land,percent,36.24
+GTM,Guatemala,2007,forest_area_pct_of_land,percent,35.85
+GTM,Guatemala,2008,forest_area_pct_of_land,percent,35.65
+GTM,Guatemala,2009,forest_area_pct_of_land,percent,35.32
+GTM,Guatemala,2010,forest_area_pct_of_land,percent,35.04
+GTM,Guatemala,2011,forest_area_pct_of_land,percent,34.73
+GTM,Guatemala,2012,forest_area_pct_of_land,percent,34.39
+GTM,Guatemala,2013,forest_area_pct_of_land,percent,34.13
+GTM,Guatemala,2014,forest_area_pct_of_land,percent,33.83
+GTM,Guatemala,2015,forest_area_pct_of_land,percent,33.55
+GTM,Guatemala,2016,forest_area_pct_of_land,percent,33.22
+GTM,Guatemala,2017,forest_area_pct_of_land,percent,32.94
+GTM,Guatemala,2018,forest_area_pct_of_land,percent,32.65
+GTM,Guatemala,2019,forest_area_pct_of_land,percent,32.31
+GTM,Guatemala,2020,forest_area_pct_of_land,percent,32.01
+GTM,Guatemala,2021,forest_area_pct_of_land,percent,31.64
+GTM,Guatemala,2022,forest_area_pct_of_land,percent,31.42
+GTM,Guatemala,2023,forest_area_pct_of_land,percent,31.09
+GTM,Guatemala,2024,forest_area_pct_of_land,percent,30.88
+GTM,Guatemala,2000,mean_temperature_anomaly,degrees Celsius,0.28
+GTM,Guatemala,2001,mean_temperature_anomaly,degrees Celsius,0.26
+GTM,Guatemala,2002,mean_temperature_anomaly,degrees Celsius,0.35
+GTM,Guatemala,2003,mean_temperature_anomaly,degrees Celsius,NA
+GTM,Guatemala,2004,mean_temperature_anomaly,degrees Celsius,0.82
+GTM,Guatemala,2005,mean_temperature_anomaly,degrees Celsius,0.66
+GTM,Guatemala,2006,mean_temperature_anomaly,degrees Celsius,0.39
+GTM,Guatemala,2007,mean_temperature_anomaly,degrees Celsius,0.5
+GTM,Guatemala,2008,mean_temperature_anomaly,degrees Celsius,0.4
+GTM,Guatemala,2009,mean_temperature_anomaly,degrees Celsius,0.57
+GTM,Guatemala,2010,mean_temperature_anomaly,degrees Celsius,0.81
+GTM,Guatemala,2011,mean_temperature_anomaly,degrees Celsius,0.67
+GTM,Guatemala,2012,mean_temperature_anomaly,degrees Celsius,0.88
+GTM,Guatemala,2013,mean_temperature_anomaly,degrees Celsius,0.64
+GTM,Guatemala,2014,mean_temperature_anomaly,degrees Celsius,0.93
+GTM,Guatemala,2015,mean_temperature_anomaly,degrees Celsius,0.95
+GTM,Guatemala,2016,mean_temperature_anomaly,degrees Celsius,0.71
+GTM,Guatemala,2017,mean_temperature_anomaly,degrees Celsius,0.89
+GTM,Guatemala,2018,mean_temperature_anomaly,degrees Celsius,0.78
+GTM,Guatemala,2019,mean_temperature_anomaly,degrees Celsius,0.92
+GTM,Guatemala,2020,mean_temperature_anomaly,degrees Celsius,0.84
+GTM,Guatemala,2021,mean_temperature_anomaly,degrees Celsius,0.94
+GTM,Guatemala,2022,mean_temperature_anomaly,degrees Celsius,1.04
+GTM,Guatemala,2023,mean_temperature_anomaly,degrees Celsius,1.29
+GTM,Guatemala,2024,mean_temperature_anomaly,degrees Celsius,0.98
+HND,Honduras,2000,annual_precipitation,mm per year,2023.93
+HND,Honduras,2001,annual_precipitation,mm per year,1911.27
+HND,Honduras,2002,annual_precipitation,mm per year,1710.49
+HND,Honduras,2003,annual_precipitation,mm per year,1889.38
+HND,Honduras,2004,annual_precipitation,mm per year,1676.83
+HND,Honduras,2005,annual_precipitation,mm per year,2154.58
+HND,Honduras,2006,annual_precipitation,mm per year,2078.57
+HND,Honduras,2007,annual_precipitation,mm per year,2109.81
+HND,Honduras,2008,annual_precipitation,mm per year,2116.17
+HND,Honduras,2009,annual_precipitation,mm per year,2339.74
+HND,Honduras,2010,annual_precipitation,mm per year,1774.63
+HND,Honduras,2011,annual_precipitation,mm per year,2016.61
+HND,Honduras,2012,annual_precipitation,mm per year,2036.64
+HND,Honduras,2013,annual_precipitation,mm per year,1684.89
+HND,Honduras,2014,annual_precipitation,mm per year,2292.76
+HND,Honduras,2015,annual_precipitation,mm per year,2183.77
+HND,Honduras,2016,annual_precipitation,mm per year,2255.07
+HND,Honduras,2017,annual_precipitation,mm per year,1921.21
+HND,Honduras,2018,annual_precipitation,mm per year,..
+HND,Honduras,2019,annual_precipitation,mm per year,1861.17
+HND,Honduras,2020,annual_precipitation,mm per year,2186.11
+HND,Honduras,2021,annual_precipitation,mm per year,2045.19
+HND,Honduras,2022,annual_precipitation,mm per year,1937.6
+HND,Honduras,2023,annual_precipitation,mm per year,2073.06
+HND,Honduras,2024,annual_precipitation,mm per year,1765.86
+HND,Honduras,2000,forest_area_pct_of_land,percent,51.99
+HND,Honduras,2001,forest_area_pct_of_land,percent,51.58
+HND,Honduras,2002,forest_area_pct_of_land,percent,51.13
+HND,Honduras,2003,forest_area_pct_of_land,percent,50.7
+HND,Honduras,2004,forest_area_pct_of_land,percent,50.26
+HND,Honduras,2005,forest_area_pct_of_land,percent,49.77
+HND,Honduras,2006,forest_area_pct_of_land,percent,49.26
+HND,Honduras,2007,forest_area_pct_of_land,percent,48.78
+HND,Honduras,2008,forest_area_pct_of_land,percent,48.42
+HND,Honduras,2009,forest_area_pct_of_land,percent,47.95
+HND,Honduras,2010,forest_area_pct_of_land,percent,47.53
+HND,Honduras,2011,forest_area_pct_of_land,percent,
+HND,Honduras,2012,forest_area_pct_of_land,percent,46.6
+HND,Honduras,2013,forest_area_pct_of_land,percent,46.2
+HND,Honduras,2014,forest_area_pct_of_land,percent,45.65
+HND,Honduras,2015,forest_area_pct_of_land,percent,45.14
+HND,Honduras,2016,forest_area_pct_of_land,percent,44.78
+HND,Honduras,2017,forest_area_pct_of_land,percent,44.27
+HND,Honduras,2018,forest_area_pct_of_land,percent,43.8
+HND,Honduras,2019,forest_area_pct_of_land,percent,43.39
+HND,Honduras,2020,forest_area_pct_of_land,percent,43.02
+HND,Honduras,2021,forest_area_pct_of_land,percent,42.51
+HND,Honduras,2022,forest_area_pct_of_land,percent,42.13
+HND,Honduras,2023,forest_area_pct_of_land,percent,41.67
+HND,Honduras,2024,forest_area_pct_of_land,percent,41.23
+HND,Honduras,2000,mean_temperature_anomaly,degrees Celsius,0.29
+HND,Honduras,2001,mean_temperature_anomaly,degrees Celsius,0.6
+HND,Honduras,2002,mean_temperature_anomaly,degrees Celsius,0.48
+HND,Honduras,2003,mean_temperature_anomaly,degrees Celsius,0.42
+HND,Honduras,2004,mean_temperature_anomaly,degrees Celsius,0.52
+HND,Honduras,2005,mean_temperature_anomaly,degrees Celsius,0.56
+HND,Honduras,2006,mean_temperature_anomaly,degrees Celsius,0.46
+HND,Honduras,2007,mean_temperature_anomaly,degrees Celsius,0.64
+HND,Honduras,2008,mean_temperature_anomaly,degrees Celsius,0.6
+HND,Honduras,2009,mean_temperature_anomaly,degrees Celsius,0.82
+HND,Honduras,2010,mean_temperature_anomaly,degrees Celsius,0.64
+HND,Honduras,2011,mean_temperature_anomaly,degrees Celsius,0.78
+HND,Honduras,2012,mean_temperature_anomaly,degrees Celsius,0.79
+HND,Honduras,2013,mean_temperature_anomaly,degrees Celsius,0.54
+HND,Honduras,2014,mean_temperature_anomaly,degrees Celsius,0.79
+HND,Honduras,2015,mean_temperature_anomaly,degrees Celsius,0.9
+HND,Honduras,2016,mean_temperature_anomaly,degrees Celsius,0.83
+HND,Honduras,2017,mean_temperature_anomaly,degrees Celsius,0.77
+HND,Honduras,2018,mean_temperature_anomaly,degrees Celsius,0.86
+HND,Honduras,2019,mean_temperature_anomaly,degrees Celsius,0.94
+HND,Honduras,2020,mean_temperature_anomaly,degrees Celsius,0.77
+HND,Honduras,2021,mean_temperature_anomaly,degrees Celsius,0.99
+HND,Honduras,2022,mean_temperature_anomaly,degrees Celsius,0.99
+HND,Honduras,2023,mean_temperature_anomaly,degrees Celsius,1.07
+HND,Honduras,2024,mean_temperature_anomaly,degrees Celsius,0.98
+JAM,Jamaica,2000,annual_precipitation,mm per year,2102.32
+JAM,Jamaica,2001,annual_precipitation,mm per year,2182.32
+JAM,Jamaica,2002,annual_precipitation,mm per year,2254.11
+JAM,Jamaica,2003,annual_precipitation,mm per year,2038.4
+JAM,Jamaica,2004,annual_precipitation,mm per year,1893.12
+JAM,Jamaica,2005,annual_precipitation,mm per year,1842.54
+JAM,Jamaica,2006,annual_precipitation,mm per year,2272.09
+JAM,Jamaica,2007,annual_precipitation,mm per year,2272.07
+JAM,Jamaica,2008,annual_precipitation,mm per year,2027.45
+JAM,Jamaica,2009,annual_precipitation,mm per year,1920.42
+JAM,Jamaica,2010,annual_precipitation,mm per year,2142.89
+JAM,Jamaica,2011,annual_precipitation,mm per year,1875.66
+JAM,Jamaica,2012,annual_precipitation,mm per year,2004.47
+JAM,Jamaica,2013,annual_precipitation,mm per year,2355.76
+JAM,Jamaica,2014,annual_precipitation,mm per year,2066.33
+JAM,Jamaica,2015,annual_precipitation,mm per year,2171.77
+JAM,Jamaica,2016,annual_precipitation,mm per year,2019.86
+JAM,Jamaica,2017,annual_precipitation,mm per year,1910.35
+JAM,Jamaica,2018,annual_precipitation,mm per year,2388.51
+JAM,Jamaica,2019,annual_precipitation,mm per year,2400.95
+JAM,Jamaica,2020,annual_precipitation,mm per year,1639.93
+JAM,Jamaica,2021,annual_precipitation,mm per year,2004.92
+JAM,Jamaica,2022,annual_precipitation,mm per year,2121.22
+JAM,Jamaica,2023,annual_precipitation,mm per year,1996.77
+JAM,Jamaica,2024,annual_precipitation,mm per year,1893.07
+JAM,Jamaica,2000,forest_area_pct_of_land,percent,41.05
+JAM,Jamaica,2001,forest_area_pct_of_land,percent,40.92
+JAM,Jamaica,2002,forest_area_pct_of_land,percent,40.97
+JAM,Jamaica,2003,forest_area_pct_of_land,percent,40.86
+JAM,Jamaica,2004,forest_area_pct_of_land,percent,40.89
+JAM,Jamaica,2005,forest_area_pct_of_land,percent,40.83
+JAM,Jamaica,2006,forest_area_pct_of_land,percent,40.68
+JAM,Jamaica,2007,forest_area_pct_of_land,percent,40.67
+JAM,Jamaica,2008,forest_area_pct_of_land,percent,40.68
+JAM,Jamaica,2009,forest_area_pct_of_land,percent,40.67
+JAM,Jamaica,2010,forest_area_pct_of_land,percent,40.7
+JAM,Jamaica,2011,forest_area_pct_of_land,percent,40.62
+JAM,Jamaica,2012,forest_area_pct_of_land,percent,40.58
+JAM,Jamaica,2013,forest_area_pct_of_land,percent,40.53
+JAM,Jamaica,2014,forest_area_pct_of_land,percent,40.44
+JAM,Jamaica,2015,forest_area_pct_of_land,percent,40.37
+JAM,Jamaica,2016,forest_area_pct_of_land,percent,40.26
+JAM,Jamaica,2017,forest_area_pct_of_land,percent,40.47
+JAM,Jamaica,2018,forest_area_pct_of_land,percent,40.21
+JAM,Jamaica,2019,forest_area_pct_of_land,percent,40.2
+JAM,Jamaica,2020,forest_area_pct_of_land,percent,40.23
+JAM,Jamaica,2021,forest_area_pct_of_land,percent,40.11
+JAM,Jamaica,2022,forest_area_pct_of_land,percent,40.07
+JAM,Jamaica,2023,forest_area_pct_of_land,percent,40.05
+JAM,Jamaica,2024,forest_area_pct_of_land,percent,40.02
+JAM,Jamaica,2000,mean_temperature_anomaly,degrees Celsius,0.3
+JAM,Jamaica,2001,mean_temperature_anomaly,degrees Celsius,0.41
+JAM,Jamaica,2002,mean_temperature_anomaly,degrees Celsius,0.6
+JAM,Jamaica,2003,mean_temperature_anomaly,degrees Celsius,0.16
+JAM,Jamaica,2004,mean_temperature_anomaly,degrees Celsius,0.79
+JAM,Jamaica,2005,mean_temperature_anomaly,degrees Celsius,0.79
+JAM,Jamaica,2006,mean_temperature_anomaly,degrees Celsius,NA
+JAM,Jamaica,2007,mean_temperature_anomaly,degrees Celsius,0.9
+JAM,Jamaica,2008,mean_temperature_anomaly,degrees Celsius,0.71
+JAM,Jamaica,2009,mean_temperature_anomaly,degrees Celsius,0.55
+JAM,Jamaica,2010,mean_temperature_anomaly,degrees Celsius,0.69
+JAM,Jamaica,2011,mean_temperature_anomaly,degrees Celsius,0.68
+JAM,Jamaica,2012,mean_temperature_anomaly,degrees Celsius,0.74
+JAM,Jamaica,2013,mean_temperature_anomaly,degrees Celsius,0.78
+JAM,Jamaica,2014,mean_temperature_anomaly,degrees Celsius,0.69
+JAM,Jamaica,2015,mean_temperature_anomaly,degrees Celsius,1.08
+JAM,Jamaica,2016,mean_temperature_anomaly,degrees Celsius,0.83
+JAM,Jamaica,2017,mean_temperature_anomaly,degrees Celsius,0.78
+JAM,Jamaica,2018,mean_temperature_anomaly,degrees Celsius,1.03
+JAM,Jamaica,2019,mean_temperature_anomaly,degrees Celsius,0.76
+JAM,Jamaica,2020,mean_temperature_anomaly,degrees Celsius,1.03
+JAM,Jamaica,2021,mean_temperature_anomaly,degrees Celsius,0.9
+JAM,Jamaica,2022,mean_temperature_anomaly,degrees Celsius,1.12
+JAM,Jamaica,2023,mean_temperature_anomaly,degrees Celsius,1.13
+JAM,Jamaica,2024,mean_temperature_anomaly,degrees Celsius,0.84
+MEX,Mexico,2000,annual_precipitation,mm per year,847.41
+MEX,Mexico,2001,annual_precipitation,mm per year,780.1
+MEX,Mexico,2002,annual_precipitation,mm per year,737.76
+MEX,Mexico,2003,annual_precipitation,mm per year,677.84
+MEX,Mexico,2004,annual_precipitation,mm per year,790.39
+MEX,Mexico,2005,annual_precipitation,mm per year,829.05
+MEX,Mexico,2006,annual_precipitation,mm per year,707.13
+MEX,Mexico,2007,annual_precipitation,mm per year,710.53
+MEX,Mexico,2008,annual_precipitation,mm per year,715.68
+MEX,Mexico,2009,annual_precipitation,mm per year,688.94
+MEX,Mexico,2010,annual_precipitation,mm per year,604.74
+MEX,Mexico,2011,annual_precipitation,mm per year,783.68
+MEX,Mexico,2012,annual_precipitation,mm per year,658.27
+MEX,Mexico,2013,annual_precipitation,mm per year,744.98
+MEX,Mexico,2014,annual_precipitation,mm per year,709.26
+MEX,Mexico,2015,annual_precipitation,mm per year,706.6
+MEX,Mexico,2016,annual_precipitation,mm per year,761.2
+MEX,Mexico,2017,annual_precipitation,mm per year,797.19
+MEX,Mexico,2018,annual_precipitation,mm per year,681.31
+MEX,Mexico,2019,annual_precipitation,mm per year,747.42
+MEX,Mexico,2020,annual_precipitation,mm per year,601.16
+MEX,Mexico,2021,annual_precipitation,mm per year,732.48
+MEX,Mexico,2022,annual_precipitation,mm per year,713.23
+MEX,Mexico,2023,annual_precipitation,mm per year,633.09
+MEX,Mexico,2024,annual_precipitation,mm per year,806.82
+MEX,Mexico,2000,forest_area_pct_of_land,percent,34.47
+MEX,Mexico,2001,forest_area_pct_of_land,percent,34.42
+MEX,Mexico,2002,forest_area_pct_of_land,percent,34.33
+MEX,Mexico,2003,forest_area_pct_of_land,percent,34.16
+MEX,Mexico,2004,forest_area_pct_of_land,percent,34.18
+MEX,Mexico,2005,forest_area_pct_of_land,percent,34.02
+MEX,Mexico,2006,forest_area_pct_of_land,percent,33.9
+MEX,Mexico,2007,forest_area_pct_of_land,percent,33.79
+MEX,Mexico,2008,forest_area_pct_of_land,percent,33.68
+MEX,Mexico,2009,forest_area_pct_of_land,percent,33.63
+MEX,Mexico,2010,forest_area_pct_of_land,percent,33.46
+MEX,Mexico,2011,forest_area_pct_of_land,percent,33.39
+MEX,Mexico,2012,forest_area_pct_of_land,percent,33.3
+MEX,Mexico,2013,forest_area_pct_of_land,percent,33.19
+MEX,Mexico,2014,forest_area_pct_of_land,percent,33.08
+MEX,Mexico,2015,forest_area_pct_of_land,percent,33.06
+MEX,Mexico,2016,forest_area_pct_of_land,percent,32.85
+MEX,Mexico,2017,forest_area_pct_of_land,percent,32.74
+MEX,Mexico,2018,forest_area_pct_of_land,percent,32.68
+MEX,Mexico,2019,forest_area_pct_of_land,percent,32.6
+MEX,Mexico,2020,forest_area_pct_of_land,percent,32.6
+MEX,Mexico,2021,forest_area_pct_of_land,percent,32.41
+MEX,Mexico,2022,forest_area_pct_of_land,percent,32.24
+MEX,Mexico,2023,forest_area_pct_of_land,percent,32.22
+MEX,Mexico,2024,forest_area_pct_of_land,percent,32.13
+MEX,Mexico,2000,mean_temperature_anomaly,degrees Celsius,0.48
+MEX,Mexico,2001,mean_temperature_anomaly,degrees Celsius,0.71
+MEX,Mexico,2002,mean_temperature_anomaly,degrees Celsius,..
+MEX,Mexico,2003,mean_temperature_anomaly,degrees Celsius,0.52
+MEX,Mexico,2004,mean_temperature_anomaly,degrees Celsius,0.44
+MEX,Mexico,2005,mean_temperature_anomaly,degrees Celsius,0.72
+MEX,Mexico,2006,mean_temperature_anomaly,degrees Celsius,0.62
+MEX,Mexico,2007,mean_temperature_anomaly,degrees Celsius,0.42
+MEX,Mexico,2008,mean_temperature_anomaly,degrees Celsius,0.5
+MEX,Mexico,2009,mean_temperature_anomaly,degrees Celsius,0.64
+MEX,Mexico,2010,mean_temperature_anomaly,degrees Celsius,0.5
+MEX,Mexico,2011,mean_temperature_anomaly,degrees Celsius,0.49
+MEX,Mexico,2012,mean_temperature_anomaly,degrees Celsius,0.93
+MEX,Mexico,2013,mean_temperature_anomaly,degrees Celsius,0.83
+MEX,Mexico,2014,mean_temperature_anomaly,degrees Celsius,0.86
+MEX,Mexico,2015,mean_temperature_anomaly,degrees Celsius,0.99
+MEX,Mexico,2016,mean_temperature_anomaly,degrees Celsius,0.91
+MEX,Mexico,2017,mean_temperature_anomaly,degrees Celsius,0.63
+MEX,Mexico,2018,mean_temperature_anomaly,degrees Celsius,0.82
+MEX,Mexico,2019,mean_temperature_anomaly,degrees Celsius,0.99
+MEX,Mexico,2020,mean_temperature_anomaly,degrees Celsius,0.93
+MEX,Mexico,2021,mean_temperature_anomaly,degrees Celsius,1.21
+MEX,Mexico,2022,mean_temperature_anomaly,degrees Celsius,0.98
+MEX,Mexico,2023,mean_temperature_anomaly,degrees Celsius,1.22
+MEX,Mexico,2024,mean_temperature_anomaly,degrees Celsius,1.07
+NIC,Nicaragua,2000,annual_precipitation,mm per year,2303.21
+NIC,Nicaragua,2001,annual_precipitation,mm per year,2042.98
+NIC,Nicaragua,2002,annual_precipitation,mm per year,2453.82
+NIC,Nicaragua,2003,annual_precipitation,mm per year,2325.05
+NIC,Nicaragua,2004,annual_precipitation,mm per year,2386.79
+NIC,Nicaragua,2005,annual_precipitation,mm per year,2484.55
+NIC,Nicaragua,2006,annual_precipitation,mm per year,2044.71
+NIC,Nicaragua,2007,annual_precipitation,mm per year,2452.53
+NIC,Nicaragua,2008,annual_precipitation,mm per year,2100.35
+NIC,Nicaragua,2009,annual_precipitation,mm per year,2247.64
+NIC,Nicaragua,2010,annual_precipitation,mm per year,2297.54
+NIC,Nicaragua,2011,annual_precipitation,mm per year,2286.88
+NIC,Nicaragua,2012,annual_precipitation,mm per year,2788.27
+NIC,Nicaragua,2013,annual_precipitation,mm per year,1869.77
+NIC,Nicaragua,2014,annual_precipitation,mm per year,2639.59
+NIC,Nicaragua,2015,annual_precipitation,mm per year,2426.49
+NIC,Nicaragua,2016,annual_precipitation,mm per year,2673.77
+NIC,Nicaragua,2017,annual_precipitation,mm per year,2119.65
+NIC,Nicaragua,2018,annual_precipitation,mm per year,2436.81
+NIC,Nicaragua,2019,annual_precipitation,mm per year,1789.07
+NIC,Nicaragua,2020,annual_precipitation,mm per year,2426.19
+NIC,Nicaragua,2021,annual_precipitation,mm per year,2515.49
+NIC,Nicaragua,2022,annual_precipitation,mm per year,2450.74
+NIC,Nicaragua,2023,annual_precipitation,mm per year,2347.6
+NIC,Nicaragua,2024,annual_precipitation,mm per year,2446.9
+NIC,Nicaragua,2000,forest_area_pct_of_land,percent,37.96
+NIC,Nicaragua,2001,forest_area_pct_of_land,percent,37.5
+NIC,Nicaragua,2002,forest_area_pct_of_land,percent,36.9
+NIC,Nicaragua,2003,forest_area_pct_of_land,percent,36.33
+NIC,Nicaragua,2004,forest_area_pct_of_land,percent,35.83
+NIC,Nicaragua,2005,forest_area_pct_of_land,percent,35.22
+NIC,Nicaragua,2006,forest_area_pct_of_land,percent,34.71
+NIC,Nicaragua,2007,forest_area_pct_of_land,percent,34.18
+NIC,Nicaragua,2008,forest_area_pct_of_land,percent,33.56
+NIC,Nicaragua,2009,forest_area_pct_of_land,percent,33.07
+NIC,Nicaragua,2010,forest_area_pct_of_land,percent,32.45
+NIC,Nicaragua,2011,forest_area_pct_of_land,percent,..
+NIC,Nicaragua,2012,forest_area_pct_of_land,percent,31.42
+NIC,Nicaragua,2013,forest_area_pct_of_land,percent,30.91
+NIC,Nicaragua,2014,forest_area_pct_of_land,percent,30.39
+NIC,Nicaragua,2015,forest_area_pct_of_land,percent,29.73
+NIC,Nicaragua,2016,forest_area_pct_of_land,percent,29.22
+NIC,Nicaragua,2017,forest_area_pct_of_land,percent,28.68
+NIC,Nicaragua,2018,forest_area_pct_of_land,percent,28.01
+NIC,Nicaragua,2019,forest_area_pct_of_land,percent,27.59
+NIC,Nicaragua,2020,forest_area_pct_of_land,percent,27.07
+NIC,Nicaragua,2021,forest_area_pct_of_land,percent,26.42
+NIC,Nicaragua,2022,forest_area_pct_of_land,percent,25.89
+NIC,Nicaragua,2023,forest_area_pct_of_land,percent,25.28
+NIC,Nicaragua,2024,forest_area_pct_of_land,percent,24.82
+NIC,Nicaragua,2000,mean_temperature_anomaly,degrees Celsius,0.48
+NIC,Nicaragua,2001,mean_temperature_anomaly,degrees Celsius,0.2
+NIC,Nicaragua,2002,mean_temperature_anomaly,degrees Celsius,0.37
+NIC,Nicaragua,2003,mean_temperature_anomaly,degrees Celsius,0.38
+NIC,Nicaragua,2004,mean_temperature_anomaly,degrees Celsius,0.63
+NIC,Nicaragua,2005,mean_temperature_anomaly,degrees Celsius,0.68
+NIC,Nicaragua,2006,mean_temperature_anomaly,degrees Celsius,0.61
+NIC,Nicaragua,2007,mean_temperature_anomaly,degrees Celsius,0.71
+NIC,Nicaragua,2008,mean_temperature_anomaly,degrees Celsius,0.79
+NIC,Nicaragua,2009,mean_temperature_anomaly,degrees Celsius,0.73
+NIC,Nicaragua,2010,mean_temperature_anomaly,degrees Celsius,0.99
+NIC,Nicaragua,2011,mean_temperature_anomaly,degrees Celsius,0.81
+NIC,Nicaragua,2012,mean_temperature_anomaly,degrees Celsius,0.49
+NIC,Nicaragua,2013,mean_temperature_anomaly,degrees Celsius,0.75
+NIC,Nicaragua,2014,mean_temperature_anomaly,degrees Celsius,0.83
+NIC,Nicaragua,2015,mean_temperature_anomaly,degrees Celsius,0.79
+NIC,Nicaragua,2016,mean_temperature_anomaly,degrees Celsius,0.81
+NIC,Nicaragua,2017,mean_temperature_anomaly,degrees Celsius,0.99
+NIC,Nicaragua,2018,mean_temperature_anomaly,degrees Celsius,0.96
+NIC,Nicaragua,2019,mean_temperature_anomaly,degrees Celsius,0.94
+NIC,Nicaragua,2020,mean_temperature_anomaly,degrees Celsius,1.06
+NIC,Nicaragua,2021,mean_temperature_anomaly,degrees Celsius,0.89
+NIC,Nicaragua,2022,mean_temperature_anomaly,degrees Celsius,0.8
+NIC,Nicaragua,2023,mean_temperature_anomaly,degrees Celsius,1.16
+NIC,Nicaragua,2024,mean_temperature_anomaly,degrees Celsius,1.09
+PAN,Panama,2000,annual_precipitation,mm per year,2547.91
+PAN,Panama,2001,annual_precipitation,mm per year,2675.07
+PAN,Panama,2002,annual_precipitation,mm per year,3515.19
+PAN,Panama,2003,annual_precipitation,mm per year,2812.27
+PAN,Panama,2004,annual_precipitation,mm per year,1904.63
+PAN,Panama,2005,annual_precipitation,mm per year,2983.27
+PAN,Panama,2006,annual_precipitation,mm per year,2453.02
+PAN,Panama,2007,annual_precipitation,mm per year,2480.27
+PAN,Panama,2008,annual_precipitation,mm per year,2561.1
+PAN,Panama,2009,annual_precipitation,mm per year,2530.8
+PAN,Panama,2010,annual_precipitation,mm per year,2667.72
+PAN,Panama,2011,annual_precipitation,mm per year,3142.0
+PAN,Panama,2012,annual_precipitation,mm per year,2564.28
+PAN,Panama,2013,annual_precipitation,mm per year,2665.95
+PAN,Panama,2014,annual_precipitation,mm per year,2643.93
+PAN,Panama,2015,annual_precipitation,mm per year,2789.84
+PAN,Panama,2016,annual_precipitation,mm per year,2470.76
+PAN,Panama,2017,annual_precipitation,mm per year,2719.51
+PAN,Panama,2018,annual_precipitation,mm per year,2850.28
+PAN,Panama,2019,annual_precipitation,mm per year,2397.39
+PAN,Panama,2020,annual_precipitation,mm per year,2851.97
+PAN,Panama,2021,annual_precipitation,mm per year,3327.55
+PAN,Panama,2022,annual_precipitation,mm per year,2644.53
+PAN,Panama,2023,annual_precipitation,mm per year,2916.88
+PAN,Panama,2024,annual_precipitation,mm per year,2461.77
+PAN,Panama,2000,forest_area_pct_of_land,percent,62.0
+PAN,Panama,2001,forest_area_pct_of_land,percent,61.82
+PAN,Panama,2002,forest_area_pct_of_land,percent,61.68
+PAN,Panama,2003,forest_area_pct_of_land,percent,61.49
+PAN,Panama,2004,forest_area_pct_of_land,percent,61.4
+PAN,Panama,2005,forest_area_pct_of_land,percent,61.24
+PAN,Panama,2006,forest_area_pct_of_land,percent,61.02
+PAN,Panama,2007,forest_area_pct_of_land,percent,60.93
+PAN,Panama,2008,forest_area_pct_of_land,percent,60.88
+PAN,Panama,2009,forest_area_pct_of_land,percent,60.7
+PAN,Panama,2010,forest_area_pct_of_land,percent,60.5
+PAN,Panama,2011,forest_area_pct_of_land,percent,60.37
+PAN,Panama,2012,forest_area_pct_of_land,percent,60.22
+PAN,Panama,2013,forest_area_pct_of_land,percent,60.09
+PAN,Panama,2014,forest_area_pct_of_land,percent,59.94
+PAN,Panama,2015,forest_area_pct_of_land,percent,59.71
+PAN,Panama,2016,forest_area_pct_of_land,percent,59.65
+PAN,Panama,2017,forest_area_pct_of_land,percent,59.51
+PAN,Panama,2018,forest_area_pct_of_land,percent,59.39
+PAN,Panama,2019,forest_area_pct_of_land,percent,59.18
+PAN,Panama,2020,forest_area_pct_of_land,percent,59.02
+PAN,Panama,2021,forest_area_pct_of_land,percent,58.78
+PAN,Panama,2022,forest_area_pct_of_land,percent,58.69
+PAN,Panama,2023,forest_area_pct_of_land,percent,58.62
+PAN,Panama,2024,forest_area_pct_of_land,percent,58.47
+PAN,Panama,2000,mean_temperature_anomaly,degrees Celsius,0.25
+PAN,Panama,2001,mean_temperature_anomaly,degrees Celsius,0.37
+PAN,Panama,2002,mean_temperature_anomaly,degrees Celsius,0.45
+PAN,Panama,2003,mean_temperature_anomaly,degrees Celsius,0.6
+PAN,Panama,2004,mean_temperature_anomaly,degrees Celsius,0.55
+PAN,Panama,2005,mean_temperature_anomaly,degrees Celsius,0.5
+PAN,Panama,2006,mean_temperature_anomaly,degrees Celsius,0.65
+PAN,Panama,2007,mean_temperature_anomaly,degrees Celsius,0.66
+PAN,Panama,2008,mean_temperature_anomaly,degrees Celsius,0.79
+PAN,Panama,2009,mean_temperature_anomaly,degrees Celsius,0.78
+PAN,Panama,2010,mean_temperature_anomaly,degrees Celsius,0.64
+PAN,Panama,2011,mean_temperature_anomaly,degrees Celsius,0.74
+PAN,Panama,2012,mean_temperature_anomaly,degrees Celsius,0.7
+PAN,Panama,2013,mean_temperature_anomaly,degrees Celsius,0.99
+PAN,Panama,2014,mean_temperature_anomaly,degrees Celsius,0.59
+PAN,Panama,2015,mean_temperature_anomaly,degrees Celsius,0.88
+PAN,Panama,2016,mean_temperature_anomaly,degrees Celsius,0.95
+PAN,Panama,2017,mean_temperature_anomaly,degrees Celsius,1.02
+PAN,Panama,2018,mean_temperature_anomaly,degrees Celsius,0.75
+PAN,Panama,2019,mean_temperature_anomaly,degrees Celsius,0.97
+PAN,Panama,2020,mean_temperature_anomaly,degrees Celsius,0.91
+PAN,Panama,2021,mean_temperature_anomaly,degrees Celsius,1.23
+PAN,Panama,2022,mean_temperature_anomaly,degrees Celsius,0.98
+PAN,Panama,2023,mean_temperature_anomaly,degrees Celsius,0.72
+PAN,Panama,2024,mean_temperature_anomaly,degrees Celsius,1.08
+PER,Peru,2000,annual_precipitation,mm per year,1350.35
+PER,Peru,2001,annual_precipitation,mm per year,1497.73
+PER,Peru,2002,annual_precipitation,mm per year,1354.31
+PER,Peru,2003,annual_precipitation,mm per year,1272.97
+PER,Peru,2004,annual_precipitation,mm per year,1743.01
+PER,Peru,2005,annual_precipitation,mm per year,1734.57
+PER,Peru,2006,annual_precipitation,mm per year,1619.54
+PER,Peru,2007,annual_precipitation,mm per year,1528.87
+PER,Peru,2008,annual_precipitation,mm per year,1401.45
+PER,Peru,2009,annual_precipitation,mm per year,1674.07
+PER,Peru,2010,annual_precipitation,mm per year,1588.4
+PER,Peru,2011,annual_precipitation,mm per year,1263.93
+PER,Peru,2012,annual_precipitation,mm per year,1571.44
+PER,Peru,2013,annual_precipitation,mm per year,1515.0
+PER,Peru,2014,annual_precipitation,mm per year,1403.66
+PER,Peru,2015,annual_precipitation,mm per year,1384.91
+PER,Peru,2016,annual_precipitation,mm per year,1457.68
+PER,Peru,2017,annual_precipitation,mm per year,1699.86
+PER,Peru,2018,annual_precipitation,mm per year,1684.66
+PER,Peru,2019,annual_precipitation,mm per year,1451.64
+PER,Peru,2020,annual_precipitation,mm per year,1564.46
+PER,Peru,2021,annual_precipitation,mm per year,1349.08
+PER,Peru,2022,annual_precipitation,mm per year,1509.37
+PER,Peru,2023,annual_precipitation,mm per year,1504.29
+PER,Peru,2024,annual_precipitation,mm per year,1551.3
+PER,Peru,2000,forest_area_pct_of_land,percent,59.0
+PER,Peru,2001,forest_area_pct_of_land,percent,58.84
+PER,Peru,2002,forest_area_pct_of_land,percent,58.72
+PER,Peru,2003,forest_area_pct_of_land,percent,58.57
+PER,Peru,2004,forest_area_pct_of_land,percent,58.4
+PER,Peru,2005,forest_area_pct_of_land,percent,58.4
+PER,Peru,2006,forest_area_pct_of_land,percent,58.15
+PER,Peru,2007,forest_area_pct_of_land,percent,58.01
+PER,Peru,2008,forest_area_pct_of_land,percent,57.91
+PER,Peru,2009,forest_area_pct_of_land,percent,57.73
+PER,Peru,2010,forest_area_pct_of_land,percent,57.57
+PER,Peru,2011,forest_area_pct_of_land,percent,57.5
+PER,Peru,2012,forest_area_pct_of_land,percent,57.34
+PER,Peru,2013,forest_area_pct_of_land,percent,57.17
+PER,Peru,2014,forest_area_pct_of_land,percent,57.04
+PER,Peru,2015,forest_area_pct_of_land,percent,56.82
+PER,Peru,2016,forest_area_pct_of_land,percent,56.74
+PER,Peru,2017,forest_area_pct_of_land,percent,56.64
+PER,Peru,2018,forest_area_pct_of_land,percent,56.51
+PER,Peru,2019,forest_area_pct_of_land,percent,56.36
+PER,Peru,2020,forest_area_pct_of_land,percent,56.21
+PER,Peru,2021,forest_area_pct_of_land,percent,56.0
+PER,Peru,2022,forest_area_pct_of_land,percent,55.93
+PER,Peru,2023,forest_area_pct_of_land,percent,55.76
+PER,Peru,2024,forest_area_pct_of_land,percent,55.58
+PER,Peru,2000,mean_temperature_anomaly,degrees Celsius,0.34
+PER,Peru,2001,mean_temperature_anomaly,degrees Celsius,0.41
+PER,Peru,2002,mean_temperature_anomaly,degrees Celsius,0.49
+PER,Peru,2003,mean_temperature_anomaly,degrees Celsius,0.39
+PER,Peru,2004,mean_temperature_anomaly,degrees Celsius,0.79
+PER,Peru,2005,mean_temperature_anomaly,degrees Celsius,0.36
+PER,Peru,2006,mean_temperature_anomaly,degrees Celsius,0.47
+PER,Peru,2007,mean_temperature_anomaly,degrees Celsius,0.57
+PER,Peru,2008,mean_temperature_anomaly,degrees Celsius,0.6
+PER,Peru,2009,mean_temperature_anomaly,degrees Celsius,0.62
+PER,Peru,2010,mean_temperature_anomaly,degrees Celsius,0.86
+PER,Peru,2011,mean_temperature_anomaly,degrees Celsius,0.79
+PER,Peru,2012,mean_temperature_anomaly,degrees Celsius,0.38
+PER,Peru,2013,mean_temperature_anomaly,degrees Celsius,0.77
+PER,Peru,2014,mean_temperature_anomaly,degrees Celsius,0.91
+PER,Peru,2015,mean_temperature_anomaly,degrees Celsius,0.74
+PER,Peru,2016,mean_temperature_anomaly,degrees Celsius,1.08
+PER,Peru,2017,mean_temperature_anomaly,degrees Celsius,0.83
+PER,Peru,2018,mean_temperature_anomaly,degrees Celsius,0.97
+PER,Peru,2019,mean_temperature_anomaly,degrees Celsius,0.93
+PER,Peru,2020,mean_temperature_anomaly,degrees Celsius,0.87
+PER,Peru,2021,mean_temperature_anomaly,degrees Celsius,1.09
+PER,Peru,2022,mean_temperature_anomaly,degrees Celsius,0.91
+PER,Peru,2023,mean_temperature_anomaly,degrees Celsius,1.03
+PER,Peru,2024,mean_temperature_anomaly,degrees Celsius,1.05
+PRY,Paraguay,2000,annual_precipitation,mm per year,1224.69
+PRY,Paraguay,2001,annual_precipitation,mm per year,1198.15
+PRY,Paraguay,2002,annual_precipitation,mm per year,1160.64
+PRY,Paraguay,2003,annual_precipitation,mm per year,1357.36
+PRY,Paraguay,2004,annual_precipitation,mm per year,1340.76
+PRY,Paraguay,2005,annual_precipitation,mm per year,1289.38
+PRY,Paraguay,2006,annual_precipitation,mm per year,1264.31
+PRY,Paraguay,2007,annual_precipitation,mm per year,1221.37
+PRY,Paraguay,2008,annual_precipitation,mm per year,952.15
+PRY,Paraguay,2009,annual_precipitation,mm per year,1086.07
+PRY,Paraguay,2010,annual_precipitation,mm per year,1148.48
+PRY,Paraguay,2011,annual_precipitation,mm per year,1271.04
+PRY,Paraguay,2012,annual_precipitation,mm per year,1003.05
+PRY,Paraguay,2013,annual_precipitation,mm per year,1037.74
+PRY,Paraguay,2014,annual_precipitation,mm per year,1334.67
+PRY,Paraguay,2015,annual_precipitation,mm per year,1166.76
+PRY,Paraguay,2016,annual_precipitation,mm per year,1139.45
+PRY,Paraguay,2017,annual_precipitation,mm per year,1145.9
+PRY,Paraguay,2018,annual_precipitation,mm per year,1103.93
+PRY,Paraguay,2019,annual_precipitation,mm per year,1229.93
+PRY,Paraguay,2020,annual_precipitation,mm per year,1186.23
+PRY,Paraguay,2021,annual_precipitation,mm per year,1117.48
+PRY,Paraguay,2022,annual_precipitation,mm per year,996.78
+PRY,Paraguay,2023,annual_precipitation,mm per year,1188.95
+PRY,Paraguay,2024,annual_precipitation,mm per year,1182.41
+PRY,Paraguay,2000,forest_area_pct_of_land,percent,48.0
+PRY,Paraguay,2001,forest_area_pct_of_land,percent,47.26
+PRY,Paraguay,2002,forest_area_pct_of_land,percent,46.67
+PRY,Paraguay,2003,forest_area_pct_of_land,percent,45.91
+PRY,Paraguay,2004,forest_area_pct_of_land,percent,45.29
+PRY,Paraguay,2005,forest_area_pct_of_land,percent,44.52
+PRY,Paraguay,2006,forest_area_pct_of_land,percent,43.76
+PRY,Paraguay,2007,forest_area_pct_of_land,percent,43.02
+PRY,Paraguay,2008,forest_area_pct_of_land,percent,42.38
+PRY,Paraguay,2009,forest_area_pct_of_land,percent,41.68
+PRY,Paraguay,2010,forest_area_pct_of_land,percent,40.91
+PRY,Paraguay,2011,forest_area_pct_of_land,percent,40.27
+PRY,Paraguay,2012,forest_area_pct_of_land,percent,39.65
+PRY,Paraguay,2013,forest_area_pct_of_land,percent,38.88
+PRY,Paraguay,2014,forest_area_pct_of_land,percent,38.2
+PRY,Paraguay,2015,forest_area_pct_of_land,percent,37.6
+PRY,Paraguay,2016,forest_area_pct_of_land,percent,36.71
+PRY,Paraguay,2017,forest_area_pct_of_land,percent,36.1
+PRY,Paraguay,2018,forest_area_pct_of_land,percent,35.5
+PRY,Paraguay,2019,forest_area_pct_of_land,percent,34.74
+PRY,Paraguay,2020,forest_area_pct_of_land,percent,33.85
+PRY,Paraguay,2021,forest_area_pct_of_land,percent,33.24
+PRY,Paraguay,2022,forest_area_pct_of_land,percent,32.66
+PRY,Paraguay,2023,forest_area_pct_of_land,percent,31.84
+PRY,Paraguay,2024,forest_area_pct_of_land,percent,31.18
+PRY,Paraguay,2000,mean_temperature_anomaly,degrees Celsius,0.45
+PRY,Paraguay,2001,mean_temperature_anomaly,degrees Celsius,0.57
+PRY,Paraguay,2002,mean_temperature_anomaly,degrees Celsius,0.45
+PRY,Paraguay,2003,mean_temperature_anomaly,degrees Celsius,0.52
+PRY,Paraguay,2004,mean_temperature_anomaly,degrees Celsius,0.7
+PRY,Paraguay,2005,mean_temperature_anomaly,degrees Celsius,0.56
+PRY,Paraguay,2006,mean_temperature_anomaly,degrees Celsius,0.69
+PRY,Paraguay,2007,mean_temperature_anomaly,degrees Celsius,0.71
+PRY,Paraguay,2008,mean_temperature_anomaly,degrees Celsius,0.57
+PRY,Paraguay,2009,mean_temperature_anomaly,degrees Celsius,0.58
+PRY,Paraguay,2010,mean_temperature_anomaly,degrees Celsius,0.57
+PRY,Paraguay,2011,mean_temperature_anomaly,degrees Celsius,0.69
+PRY,Paraguay,2012,mean_temperature_anomaly,degrees Celsius,0.7
+PRY,Paraguay,2013,mean_temperature_anomaly,degrees Celsius,0.83
+PRY,Paraguay,2014,mean_temperature_anomaly,degrees Celsius,0.72
+PRY,Paraguay,2015,mean_temperature_anomaly,degrees Celsius,0.83
+PRY,Paraguay,2016,mean_temperature_anomaly,degrees Celsius,0.83
+PRY,Paraguay,2017,mean_temperature_anomaly,degrees Celsius,0.95
+PRY,Paraguay,2018,mean_temperature_anomaly,degrees Celsius,0.94
+PRY,Paraguay,2019,mean_temperature_anomaly,degrees Celsius,0.93
+PRY,Paraguay,2020,mean_temperature_anomaly,degrees Celsius,0.87
+PRY,Paraguay,2021,mean_temperature_anomaly,degrees Celsius,0.98
+PRY,Paraguay,2022,mean_temperature_anomaly,degrees Celsius,0.89
+PRY,Paraguay,2023,mean_temperature_anomaly,degrees Celsius,1.31
+PRY,Paraguay,2024,mean_temperature_anomaly,degrees Celsius,1.05
+SLV,El Salvador,2000,annual_precipitation,mm per year,1801.74
+SLV,El Salvador,2001,annual_precipitation,mm per year,1860.12
+SLV,El Salvador,2002,annual_precipitation,mm per year,1821.98
+SLV,El Salvador,2003,annual_precipitation,mm per year,1748.07
+SLV,El Salvador,2004,annual_precipitation,mm per year,1662.96
+SLV,El Salvador,2005,annual_precipitation,mm per year,1991.62
+SLV,El Salvador,2006,annual_precipitation,mm per year,1779.9
+SLV,El Salvador,2007,annual_precipitation,mm per year,1602.95
+SLV,El Salvador,2008,annual_precipitation,mm per year,1697.45
+SLV,El Salvador,2009,annual_precipitation,mm per year,..
+SLV,El Salvador,2010,annual_precipitation,mm per year,1722.76
+SLV,El Salvador,2011,annual_precipitation,mm per year,1849.35
+SLV,El Salvador,2012,annual_precipitation,mm per year,1827.08
+SLV,El Salvador,2013,annual_precipitation,mm per year,1933.32
+SLV,El Salvador,2014,annual_precipitation,mm per year,1827.78
+SLV,El Salvador,2015,annual_precipitation,mm per year,1909.03
+SLV,El Salvador,2016,annual_precipitation,mm per year,1351.63
+SLV,El Salvador,2017,annual_precipitation,mm per year,1735.74
+SLV,El Salvador,2018,annual_precipitation,mm per year,1995.0
+SLV,El Salvador,2019,annual_precipitation,mm per year,1967.77
+SLV,El Salvador,2020,annual_precipitation,mm per year,1816.39
+SLV,El Salvador,2021,annual_precipitation,mm per year,1875.12
+SLV,El Salvador,2022,annual_precipitation,mm per year,1850.58
+SLV,El Salvador,2023,annual_precipitation,mm per year,1702.6
+SLV,El Salvador,2024,annual_precipitation,mm per year,1908.09
+SLV,El Salvador,2000,forest_area_pct_of_land,percent,14.07
+SLV,El Salvador,2001,forest_area_pct_of_land,percent,13.81
+SLV,El Salvador,2002,forest_area_pct_of_land,percent,13.77
+SLV,El Salvador,2003,forest_area_pct_of_land,percent,13.77
+SLV,El Salvador,2004,forest_area_pct_of_land,percent,13.54
+SLV,El Salvador,2005,forest_area_pct_of_land,percent,13.46
+SLV,El Salvador,2006,forest_area_pct_of_land,percent,13.54
+SLV,El Salvador,2007,forest_area_pct_of_land,percent,13.29
+SLV,El Salvador,2008,forest_area_pct_of_land,percent,13.16
+SLV,El Salvador,2009,forest_area_pct_of_land,percent,13.1
+SLV,El Salvador,2010,forest_area_pct_of_land,percent,13.04
+SLV,El Salvador,2011,forest_area_pct_of_land,percent,12.94
+SLV,El Salvador,2012,forest_area_pct_of_land,percent,12.88
+SLV,El Salvador,2013,forest_area_pct_of_land,percent,12.67
+SLV,El Salvador,2014,forest_area_pct_of_land,percent,12.7
+SLV,El Salvador,2015,forest_area_pct_of_land,percent,12.48
+SLV,El Salvador,2016,forest_area_pct_of_land,percent,12.4
+SLV,El Salvador,2017,forest_area_pct_of_land,percent,12.31
+SLV,El Salvador,2018,forest_area_pct_of_land,percent,12.19
+SLV,El Salvador,2019,forest_area_pct_of_land,percent,12.13
+SLV,El Salvador,2020,forest_area_pct_of_land,percent,12.02
+SLV,El Salvador,2021,forest_area_pct_of_land,percent,11.79
+SLV,El Salvador,2022,forest_area_pct_of_land,percent,11.82
+SLV,El Salvador,2023,forest_area_pct_of_land,percent,11.69
+SLV,El Salvador,2024,forest_area_pct_of_land,percent,11.61
+SLV,El Salvador,2000,mean_temperature_anomaly,degrees Celsius,0.48
+SLV,El Salvador,2001,mean_temperature_anomaly,degrees Celsius,0.61
+SLV,El Salvador,2002,mean_temperature_anomaly,degrees Celsius,0.54
+SLV,El Salvador,2003,mean_temperature_anomaly,degrees Celsius,0.56
+SLV,El Salvador,2004,mean_temperature_anomaly,degrees Celsius,0.55
+SLV,El Salvador,2005,mean_temperature_anomaly,degrees Celsius,0.61
+SLV,El Salvador,2006,mean_temperature_anomaly,degrees Celsius,0.64
+SLV,El Salvador,2007,mean_temperature_anomaly,degrees Celsius,0.62
+SLV,El Salvador,2008,mean_temperature_anomaly,degrees Celsius,0.75
+SLV,El Salvador,2009,mean_temperature_anomaly,degrees Celsius,0.58
+SLV,El Salvador,2010,mean_temperature_anomaly,degrees Celsius,0.8
+SLV,El Salvador,2011,mean_temperature_anomaly,degrees Celsius,0.68
+SLV,El Salvador,2012,mean_temperature_anomaly,degrees Celsius,0.79
+SLV,El Salvador,2013,mean_temperature_anomaly,degrees Celsius,0.7
+SLV,El Salvador,2014,mean_temperature_anomaly,degrees Celsius,0.99
+SLV,El Salvador,2015,mean_temperature_anomaly,degrees Celsius,1.13
+SLV,El Salvador,2016,mean_temperature_anomaly,degrees Celsius,1.07
+SLV,El Salvador,2017,mean_temperature_anomaly,degrees Celsius,0.91
+SLV,El Salvador,2018,mean_temperature_anomaly,degrees Celsius,1.09
+SLV,El Salvador,2019,mean_temperature_anomaly,degrees Celsius,0.94
+SLV,El Salvador,2020,mean_temperature_anomaly,degrees Celsius,0.82
+SLV,El Salvador,2021,mean_temperature_anomaly,degrees Celsius,1.17
+SLV,El Salvador,2022,mean_temperature_anomaly,degrees Celsius,0.95
+SLV,El Salvador,2023,mean_temperature_anomaly,degrees Celsius,1.2
+SLV,El Salvador,2024,mean_temperature_anomaly,degrees Celsius,1.29
+TTO,Trinidad and Tobago,2000,annual_precipitation,mm per year,2375.71
+TTO,Trinidad and Tobago,2001,annual_precipitation,mm per year,2101.84
+TTO,Trinidad and Tobago,2002,annual_precipitation,mm per year,2284.86
+TTO,Trinidad and Tobago,2003,annual_precipitation,mm per year,2441.3
+TTO,Trinidad and Tobago,2004,annual_precipitation,mm per year,2207.77
+TTO,Trinidad and Tobago,2005,annual_precipitation,mm per year,2282.9
+TTO,Trinidad and Tobago,2006,annual_precipitation,mm per year,1573.91
+TTO,Trinidad and Tobago,2007,annual_precipitation,mm per year,2148.02
+TTO,Trinidad and Tobago,2008,annual_precipitation,mm per year,2197.34
+TTO,Trinidad and Tobago,2009,annual_precipitation,mm per year,1883.22
+TTO,Trinidad and Tobago,2010,annual_precipitation,mm per year,2033.37
+TTO,Trinidad and Tobago,2011,annual_precipitation,mm per year,1767.81
+TTO,Trinidad and Tobago,2012,annual_precipitation,mm per year,1903.5
+TTO,Trinidad and Tobago,2013,annual_precipitation,mm per year,2120.62
+TTO,Trinidad and Tobago,2014,annual_precipitation,mm per year,1923.19
+TTO,Trinidad and Tobago,2015,annual_precipitation,mm per year,2086.53
+TTO,Trinidad and Tobago,2016,annual_precipitation,mm per year,2239.1
+TTO,Trinidad and Tobago,2017,annual_precipitation,mm per year,2237.15
+TTO,Trinidad and Tobago,2018,annual_precipitation,mm per year,2413.0
+TTO,Trinidad and Tobago,2019,annual_precipitation,mm per year,2170.8
+TTO,Trinidad and Tobago,2020,annual_precipitation,mm per year,2048.39
+TTO,Trinidad and Tobago,2021,annual_precipitation,mm per year,2149.25
+TTO,Trinidad and Tobago,2022,annual_precipitation,mm per year,2382.39
+TTO,Trinidad and Tobago,2023,annual_precipitation,mm per year,1902.66
+TTO,Trinidad and Tobago,2024,annual_precipitation,mm per year,2135.54
+TTO,Trinidad and Tobago,2000,forest_area_pct_of_land,percent,45.02
+TTO,Trinidad and Tobago,2001,forest_area_pct_of_land,percent,44.95
+TTO,Trinidad and Tobago,2002,forest_area_pct_of_land,percent,44.88
+TTO,Trinidad and Tobago,2003,forest_area_pct_of_land,percent,44.82
+TTO,Trinidad and Tobago,2004,forest_area_pct_of_land,percent,44.72
+TTO,Trinidad and Tobago,2005,forest_area_pct_of_land,percent,44.71
+TTO,Trinidad and Tobago,2006,forest_area_pct_of_land,percent,44.67
+TTO,Trinidad and Tobago,2007,forest_area_pct_of_land,percent,44.54
+TTO,Trinidad and Tobago,2008,forest_area_pct_of_land,percent,44.48
+TTO,Trinidad and Tobago,2009,forest_area_pct_of_land,percent,44.47
+TTO,Trinidad and Tobago,2010,forest_area_pct_of_land,percent,44.36
+TTO,Trinidad and Tobago,2011,forest_area_pct_of_land,percent,44.37
+TTO,Trinidad and Tobago,2012,forest_area_pct_of_land,percent,44.3
+TTO,Trinidad and Tobago,2013,forest_area_pct_of_land,percent,44.17
+TTO,Trinidad and Tobago,2014,forest_area_pct_of_land,percent,44.12
+TTO,Trinidad and Tobago,2015,forest_area_pct_of_land,percent,44.15
+TTO,Trinidad and Tobago,2016,forest_area_pct_of_land,percent,44.05
+TTO,Trinidad and Tobago,2017,forest_area_pct_of_land,percent,43.96
+TTO,Trinidad and Tobago,2018,forest_area_pct_of_land,percent,43.83
+TTO,Trinidad and Tobago,2019,forest_area_pct_of_land,percent,43.83
+TTO,Trinidad and Tobago,2020,forest_area_pct_of_land,percent,43.78
+TTO,Trinidad and Tobago,2021,forest_area_pct_of_land,percent,43.74
+TTO,Trinidad and Tobago,2022,forest_area_pct_of_land,percent,43.73
+TTO,Trinidad and Tobago,2023,forest_area_pct_of_land,percent,43.61
+TTO,Trinidad and Tobago,2024,forest_area_pct_of_land,percent,43.55
+TTO,Trinidad and Tobago,2000,mean_temperature_anomaly,degrees Celsius,0.4
+TTO,Trinidad and Tobago,2001,mean_temperature_anomaly,degrees Celsius,0.32
+TTO,Trinidad and Tobago,2002,mean_temperature_anomaly,degrees Celsius,0.38
+TTO,Trinidad and Tobago,2003,mean_temperature_anomaly,degrees Celsius,0.49
+TTO,Trinidad and Tobago,2004,mean_temperature_anomaly,degrees Celsius,0.68
+TTO,Trinidad and Tobago,2005,mean_temperature_anomaly,degrees Celsius,0.36
+TTO,Trinidad and Tobago,2006,mean_temperature_anomaly,degrees Celsius,0.47
+TTO,Trinidad and Tobago,2007,mean_temperature_anomaly,degrees Celsius,0.59
+TTO,Trinidad and Tobago,2008,mean_temperature_anomaly,degrees Celsius,0.86
+TTO,Trinidad and Tobago,2009,mean_temperature_anomaly,degrees Celsius,0.63
+TTO,Trinidad and Tobago,2010,mean_temperature_anomaly,degrees Celsius,0.77
+TTO,Trinidad and Tobago,2011,mean_temperature_anomaly,degrees Celsius,0.53
+TTO,Trinidad and Tobago,2012,mean_temperature_anomaly,degrees Celsius,0.52
+TTO,Trinidad and Tobago,2013,mean_temperature_anomaly,degrees Celsius,0.77
+TTO,Trinidad and Tobago,2014,mean_temperature_anomaly,degrees Celsius,0.73
+TTO,Trinidad and Tobago,2015,mean_temperature_anomaly,degrees Celsius,0.62
+TTO,Trinidad and Tobago,2016,mean_temperature_anomaly,degrees Celsius,0.65
+TTO,Trinidad and Tobago,2017,mean_temperature_anomaly,degrees Celsius,0.82
+TTO,Trinidad and Tobago,2018,mean_temperature_anomaly,degrees Celsius,0.97
+TTO,Trinidad and Tobago,2019,mean_temperature_anomaly,degrees Celsius,0.97
+TTO,Trinidad and Tobago,2020,mean_temperature_anomaly,degrees Celsius,NA
+TTO,Trinidad and Tobago,2021,mean_temperature_anomaly,degrees Celsius,1.16
+TTO,Trinidad and Tobago,2022,mean_temperature_anomaly,degrees Celsius,0.96
+TTO,Trinidad and Tobago,2023,mean_temperature_anomaly,degrees Celsius,1.34
+TTO,Trinidad and Tobago,2024,mean_temperature_anomaly,degrees Celsius,1.15
+URY,Uruguay,2000,annual_precipitation,mm per year,1093.47
+URY,Uruguay,2001,annual_precipitation,mm per year,1249.4
+URY,Uruguay,2002,annual_precipitation,mm per year,1395.33
+URY,Uruguay,2003,annual_precipitation,mm per year,1491.9
+URY,Uruguay,2004,annual_precipitation,mm per year,1228.17
+URY,Uruguay,2005,annual_precipitation,mm per year,1104.63
+URY,Uruguay,2006,annual_precipitation,mm per year,1387.69
+URY,Uruguay,2007,annual_precipitation,mm per year,1645.61
+URY,Uruguay,2008,annual_precipitation,mm per year,1343.48
+URY,Uruguay,2009,annual_precipitation,mm per year,1309.54
+URY,Uruguay,2010,annual_precipitation,mm per year,1283.84
+URY,Uruguay,2011,annual_precipitation,mm per year,1298.54
+URY,Uruguay,2012,annual_precipitation,mm per year,1267.32
+URY,Uruguay,2013,annual_precipitation,mm per year,1439.15
+URY,Uruguay,2014,annual_precipitation,mm per year,1443.83
+URY,Uruguay,2015,annual_precipitation,mm per year,1297.41
+URY,Uruguay,2016,annual_precipitation,mm per year,
+URY,Uruguay,2017,annual_precipitation,mm per year,1459.17
+URY,Uruguay,2018,annual_precipitation,mm per year,1211.61
+URY,Uruguay,2019,annual_precipitation,mm per year,1266.78
+URY,Uruguay,2020,annual_precipitation,mm per year,1295.94
+URY,Uruguay,2021,annual_precipitation,mm per year,1542.44
+URY,Uruguay,2022,annual_precipitation,mm per year,1314.42
+URY,Uruguay,2023,annual_precipitation,mm per year,1217.92
+URY,Uruguay,2024,annual_precipitation,mm per year,1274.83
+URY,Uruguay,2000,forest_area_pct_of_land,percent,8.03
+URY,Uruguay,2001,forest_area_pct_of_land,percent,8.38
+URY,Uruguay,2002,forest_area_pct_of_land,percent,8.73
+URY,Uruguay,2003,forest_area_pct_of_land,percent,9.09
+URY,Uruguay,2004,forest_area_pct_of_land,percent,9.46
+URY,Uruguay,2005,forest_area_pct_of_land,percent,9.73
+URY,Uruguay,2006,forest_area_pct_of_land,percent,10.07
+URY,Uruguay,2007,forest_area_pct_of_land,percent,10.53
+URY,Uruguay,2008,forest_area_pct_of_land,percent,10.8
+URY,Uruguay,2009,forest_area_pct_of_land,percent,11.23
+URY,Uruguay,2010,forest_area_pct_of_land,percent,11.47
+URY,Uruguay,2011,forest_area_pct_of_land,percent,11.83
+URY,Uruguay,2012,forest_area_pct_of_land,percent,12.16
+URY,Uruguay,2013,forest_area_pct_of_land,percent,12.63
+URY,Uruguay,2014,forest_area_pct_of_land,percent,12.8
+URY,Uruguay,2015,forest_area_pct_of_land,percent,
+URY,Uruguay,2016,forest_area_pct_of_land,percent,13.56
+URY,Uruguay,2017,forest_area_pct_of_land,percent,13.94
+URY,Uruguay,2018,forest_area_pct_of_land,percent,14.27
+URY,Uruguay,2019,forest_area_pct_of_land,percent,14.67
+URY,Uruguay,2020,forest_area_pct_of_land,percent,14.96
+URY,Uruguay,2021,forest_area_pct_of_land,percent,15.33
+URY,Uruguay,2022,forest_area_pct_of_land,percent,15.73
+URY,Uruguay,2023,forest_area_pct_of_land,percent,16.02
+URY,Uruguay,2024,forest_area_pct_of_land,percent,16.48
+URY,Uruguay,2000,mean_temperature_anomaly,degrees Celsius,0.41
+URY,Uruguay,2001,mean_temperature_anomaly,degrees Celsius,0.34
+URY,Uruguay,2002,mean_temperature_anomaly,degrees Celsius,0.41
+URY,Uruguay,2003,mean_temperature_anomaly,degrees Celsius,0.47
+URY,Uruguay,2004,mean_temperature_anomaly,degrees Celsius,0.44
+URY,Uruguay,2005,mean_temperature_anomaly,degrees Celsius,0.7
+URY,Uruguay,2006,mean_temperature_anomaly,degrees Celsius,0.61
+URY,Uruguay,2007,mean_temperature_anomaly,degrees Celsius,0.61
+URY,Uruguay,2008,mean_temperature_anomaly,degrees Celsius,0.48
+URY,Uruguay,2009,mean_temperature_anomaly,degrees Celsius,0.61
+URY,Uruguay,2010,mean_temperature_anomaly,degrees Celsius,1.07
+URY,Uruguay,2011,mean_temperature_anomaly,degrees Celsius,0.97
+URY,Uruguay,2012,mean_temperature_anomaly,degrees Celsius,0.71
+URY,Uruguay,2013,mean_temperature_anomaly,degrees Celsius,0.7
+URY,Uruguay,2014,mean_temperature_anomaly,degrees Celsius,0.72
+URY,Uruguay,2015,mean_temperature_anomaly,degrees Celsius,0.89
+URY,Uruguay,2016,mean_temperature_anomaly,degrees Celsius,0.64
+URY,Uruguay,2017,mean_temperature_anomaly,degrees Celsius,0.98
+URY,Uruguay,2018,mean_temperature_anomaly,degrees Celsius,0.95
+URY,Uruguay,2019,mean_temperature_anomaly,degrees Celsius,0.88
+URY,Uruguay,2020,mean_temperature_anomaly,degrees Celsius,1.02
+URY,Uruguay,2021,mean_temperature_anomaly,degrees Celsius,1.01
+URY,Uruguay,2022,mean_temperature_anomaly,degrees Celsius,0.95
+URY,Uruguay,2023,mean_temperature_anomaly,degrees Celsius,0.89
+URY,Uruguay,2024,mean_temperature_anomaly,degrees Celsius,0.76
+VEN,Venezuela,2000,annual_precipitation,mm per year,2005.62
+VEN,Venezuela,2001,annual_precipitation,mm per year,1770.17
+VEN,Venezuela,2002,annual_precipitation,mm per year,1865.49
+VEN,Venezuela,2003,annual_precipitation,mm per year,2146.42
+VEN,Venezuela,2004,annual_precipitation,mm per year,2014.44
+VEN,Venezuela,2005,annual_precipitation,mm per year,2037.81
+VEN,Venezuela,2006,annual_precipitation,mm per year,2176.59
+VEN,Venezuela,2007,annual_precipitation,mm per year,1513.55
+VEN,Venezuela,2008,annual_precipitation,mm per year,1777.5
+VEN,Venezuela,2009,annual_precipitation,mm per year,1794.81
+VEN,Venezuela,2010,annual_precipitation,mm per year,1925.42
+VEN,Venezuela,2011,annual_precipitation,mm per year,1705.44
+VEN,Venezuela,2012,annual_precipitation,mm per year,2095.36
+VEN,Venezuela,2013,annual_precipitation,mm per year,2032.99
+VEN,Venezuela,2014,annual_precipitation,mm per year,2027.48
+VEN,Venezuela,2015,annual_precipitation,mm per year,2266.77
+VEN,Venezuela,2016,annual_precipitation,mm per year,1732.72
+VEN,Venezuela,2017,annual_precipitation,mm per year,1594.45
+VEN,Venezuela,2018,annual_precipitation,mm per year,2136.12
+VEN,Venezuela,2019,annual_precipitation,mm per year,1749.17
+VEN,Venezuela,2020,annual_precipitation,mm per year,1887.81
+VEN,Venezuela,2021,annual_precipitation,mm per year,2007.58
+VEN,Venezuela,2022,annual_precipitation,mm per year,1732.14
+VEN,Venezuela,2023,annual_precipitation,mm per year,1935.75
+VEN,Venezuela,2024,annual_precipitation,mm per year,2093.09
+VEN,Venezuela,2000,forest_area_pct_of_land,percent,56.01
+VEN,Venezuela,2001,forest_area_pct_of_land,percent,55.67
+VEN,Venezuela,2002,forest_area_pct_of_land,percent,55.34
+VEN,Venezuela,2003,forest_area_pct_of_land,percent,55.16
+VEN,Venezuela,2004,forest_area_pct_of_land,percent,54.81
+VEN,Venezuela,2005,forest_area_pct_of_land,percent,54.47
+VEN,Venezuela,2006,forest_area_pct_of_land,percent,54.21
+VEN,Venezuela,2007,forest_area_pct_of_land,percent,53.96
+VEN,Venezuela,2008,forest_area_pct_of_land,percent,53.66
+VEN,Venezuela,2009,forest_area_pct_of_land,percent,53.38
+VEN,Venezuela,2010,forest_area_pct_of_land,percent,53.03
+VEN,Venezuela,2011,forest_area_pct_of_land,percent,52.65
+VEN,Venezuela,2012,forest_area_pct_of_land,percent,52.36
+VEN,Venezuela,2013,forest_area_pct_of_land,percent,52.09
+VEN,Venezuela,2014,forest_area_pct_of_land,percent,51.87
+VEN,Venezuela,2015,forest_area_pct_of_land,percent,51.44
+VEN,Venezuela,2016,forest_area_pct_of_land,percent,51.27
+VEN,Venezuela,2017,forest_area_pct_of_land,percent,50.89
+VEN,Venezuela,2018,forest_area_pct_of_land,percent,50.57
+VEN,Venezuela,2019,forest_area_pct_of_land,percent,50.18
+VEN,Venezuela,2020,forest_area_pct_of_land,percent,49.98
+VEN,Venezuela,2021,forest_area_pct_of_land,percent,49.75
+VEN,Venezuela,2022,forest_area_pct_of_land,percent,49.39
+VEN,Venezuela,2023,forest_area_pct_of_land,percent,49.14
+VEN,Venezuela,2024,forest_area_pct_of_land,percent,48.72
+VEN,Venezuela,2000,mean_temperature_anomaly,degrees Celsius,0.43
+VEN,Venezuela,2001,mean_temperature_anomaly,degrees Celsius,0.64
+VEN,Venezuela,2002,mean_temperature_anomaly,degrees Celsius,0.48
+VEN,Venezuela,2003,mean_temperature_anomaly,degrees Celsius,0.43
+VEN,Venezuela,2004,mean_temperature_anomaly,degrees Celsius,0.42
+VEN,Venezuela,2005,mean_temperature_anomaly,degrees Celsius,0.53
+VEN,Venezuela,2006,mean_temperature_anomaly,degrees Celsius,0.67
+VEN,Venezuela,2007,mean_temperature_anomaly,degrees Celsius,0.51
+VEN,Venezuela,2008,mean_temperature_anomaly,degrees Celsius,0.47
+VEN,Venezuela,2009,mean_temperature_anomaly,degrees Celsius,0.81
+VEN,Venezuela,2010,mean_temperature_anomaly,degrees Celsius,0.78
+VEN,Venezuela,2011,mean_temperature_anomaly,degrees Celsius,0.86
+VEN,Venezuela,2012,mean_temperature_anomaly,degrees Celsius,0.95
+VEN,Venezuela,2013,mean_temperature_anomaly,degrees Celsius,0.96
+VEN,Venezuela,2014,mean_temperature_anomaly,degrees Celsius,0.72
+VEN,Venezuela,2015,mean_temperature_anomaly,degrees Celsius,0.74
+VEN,Venezuela,2016,mean_temperature_anomaly,degrees Celsius,0.76
+VEN,Venezuela,2017,mean_temperature_anomaly,degrees Celsius,0.85
+VEN,Venezuela,2018,mean_temperature_anomaly,degrees Celsius,1.1
+VEN,Venezuela,2019,mean_temperature_anomaly,degrees Celsius,0.85
+VEN,Venezuela,2020,mean_temperature_anomaly,degrees Celsius,0.81
+VEN,Venezuela,2021,mean_temperature_anomaly,degrees Celsius,1.0
+VEN,Venezuela,2022,mean_temperature_anomaly,degrees Celsius,1.08
+VEN,Venezuela,2023,mean_temperature_anomaly,degrees Celsius,0.92
+VEN,Venezuela,2024,mean_temperature_anomaly,degrees Celsius,0.9
